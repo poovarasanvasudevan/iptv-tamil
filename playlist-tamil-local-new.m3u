@@ -1,0 +1,75 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",VEL TV
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/veltv123.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sri Kannimar TV
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/srikannimartv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",MK TV
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/mktv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Nila Tv
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/nilatv321.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Maya TV
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",CTN
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",City TV
+http://hdserver.7starcloud.com:1935/city/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Polimer Local Channel
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Starten TV
+http://media.7starcloud.com:1935/starten/startentv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Jayaam TV
+http://hdserver.7starcloud.com:1935/jayaamtv/livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sharvesh 7Star TV
+https://streaming.livebox.co.in/sharvesh7startvhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Jawahar Channel
+http://139.99.41.37:1935/jawaharchannel/livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Vani TV HD
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Kalvi Tv
+http://7starcloud.com:1935/live/kalvii/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",OM Namah sivaya
+http://51.79.158.179:1935/omtvjak/livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",OM TV(Omalur)
+http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Thirai TV
+http://139.99.41.37:1935/thirai/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",CTN(Connor)
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Spice TV
+http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",ACN TV
+https://stream1.playbox.co.in:1936/babatv/babatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",SR MUSIX
+http://7starcloud.com:1935/srmusix/srlivetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Isai Saral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",SS TV
+http://7starcloud.com:1935/live/sstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sri Krishna TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
