@@ -490,8 +490,8 @@ http://singamcloud.in:1935/kalaiisai/kalaiisai/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Kalvi Tv
 http://7starcloud.com:1935/live/kalvii/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Dharisanam TV
-http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Om TV
+http://livematrix.in:1935/omtv/omtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Om Dharisanam
 http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR
@@ -580,5 +580,35 @@ https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Thalapathy
 rtmp://bmlive.net:1935/Thalapathyvj
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",WINS Madura
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",WINS
 rtmp://bmlive.net:1935/WINS
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",AMMA channel
+rtmp://bmlive.net:1935/ammachannel
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",ZARA TV
+rtmp://bmlive.net:1935/zaratv
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sky Tv HD
+rtmp://bmlive.net:1935/dharmatv
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",CTN
+rtmp://bmlive.net:1935/ctnchannel
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",KKTDTV
+rtmp://bmlive.net:1935/kktdctv
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",MAX TV
+rtmp://139.99.41.37:1935/dream/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Thirai TV
+http://139.99.41.37:1935/thirai/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Arasan Tv
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Nagaram Tv
+http://bmlive.net:8000/BMW/BMW/bms.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",ACN CINEMA
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
