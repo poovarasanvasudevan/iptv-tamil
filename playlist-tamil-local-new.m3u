@@ -1,8 +1,8 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="http://www.vaigaitv.com/images/vaigai-logo-01.png" group-title="Tamil;Local Entertainment",Vaigai TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw" group-title="Tamil;Local Entertainment",Vaigai TV
 http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Local Entertainment",Utv Madurai
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/svGc_Z5HrkV891tSkXNRPKa0Y0JHBt6GqluN9AuHdOtv9PgryBuZZWxC7sK2CYmrFSo=s180-rw" group-title="Tamil;Local Entertainment",Utv Madurai
 http://nextgeninfotech.ddns.net:8080/utv/utv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Local Entertainment",Madura Tv (Akash Tv)
@@ -14,7 +14,7 @@ http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Local Entertainment",QMAX TV TVR
 http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Local Entertainment",SMCV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QHY-UJodq8HOSLN6waYq91yJMCsu1Cq5toOX6PRffCrE2A8sl-MOdifsRgmq-rl3eA=s180-rw" group-title="Tamil;Local Entertainment",SMCV
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9J5HJuI.png" group-title="Tamil;Local Entertainment",Vani TV HD
