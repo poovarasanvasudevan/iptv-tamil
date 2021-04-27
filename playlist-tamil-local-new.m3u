@@ -119,23 +119,14 @@ http://stream.singamcloud.in:1935/rojatv/rojatv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://eu.streamjo.com/eetlive/eettv.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png", ULTRAMAX TAMIL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax/index.m3u8
+#EXTINF:-1 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png", ULTRAMAX TAMIL
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/ammatvvdr_logo.jpeg", AMMA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr/index.m3u8
+#EXTINF:-1 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/ammatvvdr_logo.jpeg", AMMA TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg", JEEVAN TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123/index.m3u8
+#EXTINF:-1 group-title="Tamil;Local" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg", JEEVAN TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123.m3u8
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/analaiexpress1.jpg" group-title="Tamil;Entertainment",Analai express tv
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
@@ -171,31 +162,31 @@ http://185.105.4.244:1935/live/ntv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm/index.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm.m3u8
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/kavin_tv_logo.jpeg", KAVIN TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv/index.m3u8 
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv.m3u8 
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/kvmtv.jpg", KVM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321/index.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321.m3u8
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/nanban_tv_logo.png?v=1", NANBAN TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nanbantv/index.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nanbantv.m3u8
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/sigaram_tv_logo.png?v=1", SIGARAM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv/index.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Local Entertainment",QMAX TV TVR
 http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
@@ -484,9 +475,6 @@ http://kcltv.livebox.co.in:80/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Kannur One
 https://bnwdplewrp3a-hls-live.wmncdn.net:443/kannur1/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",City Channel
-https://5d00db0e0fcd5.streamlock.net:443/7032/7032/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Wayanad Vision
 http://adhiyarnetworks.in:80/wayanadvisionhls/wayanadvision.m3u8
 
@@ -506,10 +494,10 @@ https://5d00db0e0fcd5.streamlock.net:443/7234/7234/playlist.m3u8
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sky Tv HD
-rtmp://bmlive.net:1935/dharmatv/dharmatv
+rtmp://bmlive.net:1935/dharmatv
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sky Tv HD
-http://bmlive.net:1935/dharmatv/dharmatv/playlist.m3u8
+http://bmlive.net:1935/dharmatv/dharmatv/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sky Tv HD
-http://bmlive.net:1935/dharmatv/playlist.m3u8
+http://bmlive.net:1935/dharmatv/live.m3u8
