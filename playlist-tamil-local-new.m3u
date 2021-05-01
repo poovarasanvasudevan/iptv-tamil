@@ -86,6 +86,9 @@ http://hdserver.7starcloud.com:1935/jayaamtv/livetv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Wins Tv(Madura Tv)
+http://bmlive.net:8000/WINS/winstv/bms.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Jeyam tv Covai
 http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
 
@@ -95,12 +98,14 @@ http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Arasan Tv
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://content3.jdmagicbox.com/comp/salem/b6/0427px427.x427.181203155110.u2b6/catalogue/7-star-tv-five-road-salem-satellite-channels-4nj6mbgc1x.jpg?clr=114455",7 Star TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sTNCgIgv2vPmeAywhouxARul-ckvzwSqcsa-WxtxYpckA0flVVkYgBLMEmNLWDJDUw=s180-rw" group-title="Tamil;Entertainment",Salem Merchi TV
+http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8
+
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://content3.jdmagicbox.com/comp/salem/b6/0427px427.x427.181203155110.u2b6/catalogue/7-star-tv-five-road-salem-satellite-channels-4nj6mbgc1x.jpg?clr=114455",Seven Star TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://play-lh.googleusercontent.com/VX7Zdy78EnY5411KHSUhmgkOONWipnMJK6qMu4Ku82mICSOxGHtkZkccs0eRa7PqsO0=s180-rw", JAWAHAR TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -252,6 +257,9 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil;Entertainment",Kalaignar Murasu
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Kalaignar Chithiram
+http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
+
 #EXTINF:0 group-title="Tamil;MX" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg", CAPTAIN TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -261,8 +269,8 @@ https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Rasi Music
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sTNCgIgv2vPmeAywhouxARul-ckvzwSqcsa-WxtxYpckA0flVVkYgBLMEmNLWDJDUw=s180-rw" group-title="Tamil;Entertainment",Salem Merchi TV
-http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Max TV
+http://139.99.41.37:1935/dream/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Isai Saral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
@@ -297,7 +305,7 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif" group-title="INDIA",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ivl5wXAqwWZ2heDXD9xj9BNkl7X37VgDvxLvEaB5ggP9NNWHanfQtrlQjvdpOED54-n6RMq3PC2Be0E=w1080-h608-p-no-v0" group-title="Tamil;Entertainment",Laxmi Tv
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/3K5Cs3r8X9Zz96EC9Uue5FjwxlujLw3K780jYqr-bM8fRbbEac8onhtwVfB4rrqhXtaKPQ1dvszJxL0=w960-h960-n-o-v1" group-title="Tamil;Entertainment",Laxmi Tv
 http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/z7Qxbw9cMlo0bnbJDqyEMkMHZoeTwOBCMcG-LUxbbq0SxWTKdb9fQRryNGY_ifyTUkQ=s180-rw" group-title="Tamil;Entertainment",Om Dharisanam
@@ -390,7 +398,7 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Movies",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="Movies",&Flix
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-url="" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-url="" group-title="Movies",&privé HD
