@@ -215,6 +215,9 @@ https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/img/services/ibc.png" group-title="Tamil International;Entertainment",IBC TAMIL Canada
 https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhrFvZB19oIH9NkuSnHvJbYeahXiKlp3jsHi5Ob=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil International;Entertainment",Shakthi Tv
+http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="Tamil International;Entertainment",Santhora Short Flim
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -235,6 +238,9 @@ http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/peppers-tv-channel-logo.jpg" group-title="Tamil;Entertainment",Peppers TV
+https://live.wmncdn.net/peppers/live.stream/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IKiNKDu.png" group-title="Tamil;Entertainment",Imayam TV
 https://itvorigin.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
@@ -278,7 +284,7 @@ http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittira
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_961/PORTRAIT/dRUUdhL2.png?o=production" group-title="Tamil;Music",Sun Music
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil;Music",Sun Music
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Tamil Local;Music",Rasi Music
@@ -389,6 +395,9 @@ http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng9O_jP6RX0EcVEzT18GnprkvAcwG4VvtXDCwEO=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;Entertainment",Makkal Tv
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil International;Kids",Akaram Kidz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -400,6 +409,9 @@ https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/QLDrZgUny2K79s3HLhonNJvkYtIuce_JAlO2zrDsnil5GbDYo4qRP2achR4mSr3DPIgl" group-title="Tamil Local;Education",Kalvi Cholai
 http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.dtnext.in/Articles/2021/Mar/202103230353571370_Kalvi-TV-to-start-sessions-for-Class-9-to-11-again_SECVPF.gif" group-title="Tamil;Education",Kalvi Tv
+http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e487b4fc3e4a7b24329d7b2d81e6331d1f3cb724de599fd408d067a63c0371d3.png" tvg-url="" group-title="India;Knowledge",Popular Science
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
