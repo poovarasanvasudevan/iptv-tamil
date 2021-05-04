@@ -502,3 +502,27 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",DD Podhigai
+https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Tune 6
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",9X JALWA
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Zee Tamil
+https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8?hdnts=st=1620129878~exp=1620132878~acl=/*~hmac=844a98bb7b32ce282036d3916e6c1a9b74f50e19edf4a80d20108bbd5eb86c94
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Zee Thirai
+https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1620129878~exp=1620132878~acl=/*~hmac=844a98bb7b32ce282036d3916e6c1a9b74f50e19edf4a80d20108bbd5eb86c94
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Sun TV
+http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Sun Life
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunlife/master/master.m3u8
