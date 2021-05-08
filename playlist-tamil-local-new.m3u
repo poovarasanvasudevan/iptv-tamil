@@ -508,3 +508,6 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Tamil;Entertainment",Vijay TV
+https://sin1.securepath.site/live/6894864475/7163819284/37345.m3u8?t=606ffcb5820d2&token=QhBYV0dYRg4TAVEBVABRUFFUVFJTCFBQDlJTUFRSAgZbAwUPVlRUAgUaSBAQEEJXVQhvWgIbCVYOBwQETRQUEVxAb19QEl4WAAhcBlBWEh4WEVleAxsJVRUWQFgFFFtADQYJDhYcRlFJTAFADQVcbVAARloFXBFfV0FcXU0UDgxmVlVbVV4AFgsaVBBPRllBREcKETRcXwxYWlNUQXwIDRl7XlBbUwtZXBgoWw4NRFdQRxwRBFBHF1hAVRNbFFBVCQMSGhZTC0FfTBZLQV4Se3pHHBEDQUcAV0dZXg8UW0BUAUUOFhxGXUJnFlcQEEJXVQhVQUQDEVUbGBJcAE4+AVZcXlNXRA1bX0tGCEFVEh4WCF9dD01cF2ZEWVVDDENQAQAIAxZN
