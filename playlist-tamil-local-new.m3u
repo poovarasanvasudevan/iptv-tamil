@@ -402,7 +402,7 @@ https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="Tamil International;Kids",Discovery Kids Tamil
-https://itvorigin.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8?t=606ffcb5820d2
+https://itvorigin.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil International;Kids",Akaram Kidz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -420,13 +420,13 @@ http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
 http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/112293-DTamillogo.jpg?format=webp&w=750&dpr=1.0" group-title="Tamil;Infotainment",D Tamil
-https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8?t=606ffcb5820d2
+https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="International;Infotainment",Discovery Science
-https://itvorigin.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8?t=606ffcb5820d2
+https://itvorigin.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="International;Infotainment",TLC HD
-https://itvorigin.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8?t=606ffcb5820d2
+https://itvorigin.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="International;Infotainment",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -600,11 +600,9 @@ http://103.157.237.18:9000/play/713/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Nick HD+
 http://103.157.237.18:9000/play/413/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Animal planet
-https://itvorigin.multitvsolution.com/idvo/aphd.m3u8
+https://itvorigin.multitvsolution.com/idvo/aphd_540p/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Discovery Turbo
-https://itvorigin.multitvsolution.com/idvo/turboeng.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",HBO Family
@@ -620,8 +618,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mystery Science" tvg-logo="https://mst3k.com/userFiles/uploads/logos/mstlogo.png" group-title="Infotainment",Mystery Science 
 https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA Media TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Infotainment",NASA Media TV 
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA Public TV" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Infotainment",NASA Public TV 
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8 
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA TV" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Infotainment",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
