@@ -401,9 +401,6 @@ https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng9O_jP6RX0EcVEzT18GnprkvAcwG4VvtXDCwEO=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;Entertainment",Makkal Tv
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="Tamil International;Kids",Discovery Kids Tamil
-https://itvorigin.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil International;Kids",Akaram Kidz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -412,6 +409,18 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/img/services/kids.png" group-title="Tamil International;Kids",IBC KIDS
 https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KX9OcLFIJNQ/X7C6F0F4jnI/AAAAAAAABug/bWV8Pc29JVAe_fzCkbDDte7teCWaSSo2gCLcBGAsYHQ/s320/Disney%2Bstories%2BSSS%2B1.jpg" group-title="English India;Kids",Disney Stories
+http://103.157.237.18:9000/play/442/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/250px-CBeebies.svg.png" group-title="English India;Kids",BBC Cbeebies
+http://103.157.237.18:9000/play/408/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="Tamil International;Kids",Discovery Kids Tamil
+https://itvorigin.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nickindia.com/wp-content/themes/nick/assets/images/footer-logo-2.png" group-title="English;Kids",Nick HD+
+http://103.157.237.18:9000/play/413/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/QLDrZgUny2K79s3HLhonNJvkYtIuce_JAlO2zrDsnil5GbDYo4qRP2achR4mSr3DPIgl" group-title="Tamil Local;Education",Kalvi Cholai
 http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
@@ -425,11 +434,32 @@ https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="International;Infotainment",Discovery Science
 https://itvorigin.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="English;Infotainment",Animal planet
+https://itvorigin.multitvsolution.com/idvo/aphd_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png" group-title="English;Entertainment",Discovery Turbo
+https://itvorigin.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhztlKJf3nOOhGIpetwAg6WleRL5TyRFRq4TnJJlA=s88-c-k-c0x00ffffff-no-rj" group-title="English India;Infotainment",BBC Earth
+http://103.157.237.18:9000/play/524/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="International;Infotainment",TLC HD
 https://itvorigin.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="International;Infotainment",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+EXTINF:-1 tvg-logo="https://mst3k.com/userFiles/uploads/logos/mstlogo.png" group-title="International;Infotainment",Mystery Science 
+https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/file/max/6/66479_investigation-discovery-logo-png.jpg" group-title="English India;Infotainment",Investigation Discovery HD
+http://103.157.237.18:9000/play/514/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="International;Infotainment",NASA Media TV 
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="International;Infotainment",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/88a440255269e1782103522844732107d34aa120f27dedf0c2339f9e6e2ae72b.png" group-title="International;Infotainment",Adventure Sports
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
@@ -437,17 +467,35 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" tvg-url="" group-title="International;Knowledge",National Geographic Wild Asia
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" tvg-url="" group-title="International;Lifestyle",FOX LIFE
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" tvg-url="" group-title="International;Movies",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Docurama_Logo_August_2015.jpg/220px-Docurama_Logo_August_2015.jpg" group-title="International;Infotainment",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="International;Movies",HBO Malaysia
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/200px-BBC_Lifestyle2.svg.png" group-title="English India;Lifestyle",BBC Lifestyle
+http://103.157.237.18:9000/play/523/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2fzeezest.jpg&h=570&w=855&q=100&v=20170226&c=1" group-title="Hindi;Lifestyle",Zee Zest
+http://103.157.237.18:9000/play/508/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/StarMoviesSelectHDLogo.jpg/220px-StarMoviesSelectHDLogo.jpg" group-title="English;Movies",Star Movies Select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+http://103.157.237.18:9000/play/707/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png" group-title="English India;Movies",Movies Now HD
+http://103.157.237.18:9000/play/724/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/times-mnx-hd-logo.jpg" group-title="English;Movies",MNX HD
+http://103.157.237.18:9000/play/713/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/180px-STAR_World.svg.png" group-title="English;Entertainment",Star World HD
+http://103.157.237.18:9000/play/701/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mn%2Blogo.jpeg/220px-Mn%2Blogo.jpeg" group-title="English India;Movies",MN+ HD
+http://103.157.237.18:9000/play/730/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="International;Movies",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_05/050ac15a8b20a2fc030cbc138a795859.jpeg" tvg-url="" group-title="International;Movies",FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
@@ -455,8 +503,26 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-url="" group-title="India;Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English India;Entertainment",Zee Cafe HD
+http://103.157.237.18:9000/play/709/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-url="" group-title="India;Movies",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="English;Movies",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English;Movies",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="English;Movies",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/275px-Cinemax_new.png" group-title="English;Movies",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Screen_RED_%28logo%29.jpg/150px-Screen_RED_%28logo%29.jpg" group-title="English;Movies",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" group-title="English;Movies",Paramount Network
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8?t=606ffcb5820d2
@@ -470,17 +536,47 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/800px-Fox_Movies_%28Asia%29_logo.svg.png" tvg-url="" group-title="International;Movies",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" tvg-url="" group-title="International;Movies",Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png" tvg-url="" group-title="International;Movies",HBO family
 http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png" tvg-url="" group-title="International;Movies",HBO signature
 http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" tvg-url="" group-title="International;Lifestyle",FOX LIFE
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://discover.film/wp-content/uploads/2020/12/film-logo.png" group-title="English;Movies",Discover Film
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png" group-title="English India;Entertainment",Comedy Central HD
+http://103.157.237.18:9000/play/723/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/1507190484_3cwE4C_big.jpg?format=webp&w=750&dpr=1.0" group-title="English International;Entertainment",Disney International HD
+http://103.157.237.18:9000/play/405/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Logo_Romedy_Now.jpg/150px-Logo_Romedy_Now.jpg" group-title="English;Entertainment",Romedy Now HD
+http://103.157.237.18:9000/play/726/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/220px-SET_India_logo.svg.png" group-title="Hindi;Entertainment",Sony SET HD
+http://103.157.237.18:9000/play/334/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/132px-Sony_MAX.svg.png" group-title="Hindi;Movies",Sony MAX HD
+http://103.157.237.18:9000/play/338/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/664-6648659_plex-logo-png-png-download-miniplex-channel-transparent.png" group-title="Hindi;Movies",Miniplex HD
+http://103.157.237.18:9000/play/326/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg?format=webp&w=750&dpr=1.0" group-title="Hindi;Movies",& Xplor HD
+http://103.157.237.18:9000/play/331/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/UTV-ACTION.jpg" group-title="Hindi;Movies",UTV Action
+http://103.157.237.18:9000/play/315/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nydailynews.com/resizer/ZpRkpSj23j1Ca63W8wO8zUgY5Do=/800x636/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/Z7J6PDP5TVUJAOHH54VHQ5BVPI.jpg" group-title="Hindi;Music",MTV
+http://103.157.237.18:9000/play/801/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Bindass_tv_channel.png" group-title="Hindi;Music",Bindass
+http://103.157.237.18:9000/play/313/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhYqFZGxRzP5WbWv_HlFvzEgMGYtgQ2lMzH6KrgUw=s88-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="India; Hindi Entertainment",Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
@@ -509,6 +605,33 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhkI95a.png" tvg-url="" group-title="India; English BusinessNews",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png" group-title="English International;News",CNN
+http://103.157.237.18:9000/play/1002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="English International;News",BBC World News
+http://103.157.237.18:9000/play/1001/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1516128705/1083.png" group-title="International;News",Sky News
+http://103.157.237.18:9000/play/1004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/STAR_Sports_3_India.jpg" group-title="English;Sports",Star Sports 3
+http://103.157.237.18:9000/play/605/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.assettype.com/afaqs%2Fimport%2Fall%2Fnews%2Fimages%2Fnews_story_grfx%2F2016%2F48441_1_home_big.jpg?format=webp&w=700&dpr=1.0" group-title="India;Sports",Star Sports First
+http://103.157.237.18:9000/play/628/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Sony_SIX_logo.png/160px-Sony_SIX_logo.png" group-title="India;Sports",Sony SIX HD
+http://103.157.237.18:9000/play/618/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5989b579420c3c1917b60396/1565808884193/b51668c42221dd2b383c1109aa95aad6.jpg" group-title="English;Sports",Sony Ten 1 HD
+http://103.157.237.18:9000/play/612/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg/revision/latest/scale-to-width-down/185?cb=20190322144000" group-title="English;Sports",Sony Ten 2 HD
+http://103.157.237.18:9000/play/614/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Sony-Ten-3HD.png" group-title="English;Sports",Sony Ten 3 HD
+http://103.157.237.18:9000/play/616/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/l31LSCkGK8VE7LsrLYmMhVDRWF56ivbOJ7POqoUFrrla9lKuGLpKd25Vab3Eo41b3js" group-title="Malayalam Local;Entertainment",KCV
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 
@@ -532,92 +655,3 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Disney Stories
-http://103.157.237.18:9000/play/442/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Star Sports First
-http://103.157.237.18:9000/play/628/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Zee Cafe HD
-http://103.157.237.18:9000/play/709/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",BBC Earth
-http://103.157.237.18:9000/play/524/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",MTV
-http://103.157.237.18:9000/play/801/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",History TV18 HD
-http://103.157.237.18:9000/play/520/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Comedy Central HD
-http://103.157.237.18:9000/play/723/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Sony SIX HD
-http://103.157.237.18:9000/play/618/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",UTV Action
-http://103.157.237.18:9000/play/315/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Sony Ten 2 HD
-http://103.157.237.18:9000/play/614/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Sky News
-http://103.157.237.18:9000/play/1004/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Investigation Discovery HD
-http://103.157.237.18:9000/play/514/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Star Movies Select HD
-http://103.157.237.18:9000/play/707/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",BBC Cbeebies
-http://103.157.237.18:9000/play/408/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Zee Zest
-http://103.157.237.18:9000/play/508/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Disney International HD
-http://103.157.237.18:9000/play/405/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Star Sports 3
-http://103.157.237.18:9000/play/605/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Romedy Now HD
-http://103.157.237.18:9000/play/726/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",BBC Lifestyle
-http://103.157.237.18:9000/play/523/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Sony Ten 1 HD
-http://103.157.237.18:9000/play/612/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",CNN
-http://103.157.237.18:9000/play/1002/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",BBC World News
-http://103.157.237.18:9000/play/1001/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Movies Now HD
-http://103.157.237.18:9000/play/724/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Sony SET HD
-http://103.157.237.18:9000/play/334/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Sony MAX HD
-http://103.157.237.18:9000/play/338/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Miniplex HD
-http://103.157.237.18:9000/play/326/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",& Xplor HD
-http://103.157.237.18:9000/play/331/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",MN+ HD
-http://103.157.237.18:9000/play/730/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Sony Ten 3 HD
-http://103.157.237.18:9000/play/616/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Star World HD
-http://103.157.237.18:9000/play/701/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Bindass
-http://103.157.237.18:9000/play/313/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",MNX HD
-http://103.157.237.18:9000/play/713/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Nick HD+
-http://103.157.237.18:9000/play/413/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Animal planet
-https://itvorigin.multitvsolution.com/idvo/aphd_540p/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Discovery Turbo
-https://itvorigin.multitvsolution.com/idvo/turboeng_540p/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",Red by HBO Multi-subtitle
-https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Test;Entertainment",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
-EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mystery Science" tvg-logo="https://mst3k.com/userFiles/uploads/logos/mstlogo.png" group-title="Infotainment",Mystery Science 
-https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA Media TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Infotainment",NASA Media TV 
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA TV" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Infotainment",NASA TV 
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
