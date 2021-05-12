@@ -50,9 +50,6 @@ http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png" group-title="Tamil International;Movies",Yupp Thirai
-http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
-
 #EXTINF:-1 tvg-logo="http://gtavideo.com/wp-content/uploads/2021/03/GTA-Tamil-Logo.png" group-title="Tamil International;Movies",GTA Tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8
 
@@ -405,7 +402,7 @@ https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="Tamil International;Kids",Discovery Kids Tamil
-https://itvorigin.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8?t=606ffcb5820d2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil International;Kids",Akaram Kidz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -423,7 +420,7 @@ http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
 http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/112293-DTamillogo.jpg?format=webp&w=750&dpr=1.0" group-title="Tamil;Infotainment",D Tamil
-https://itvorigin.multitvsolution.com/idvo/discoverytamil_360p/index.m3u8?t=606ffcb5820d2
+https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8?t=606ffcb5820d2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="International;Infotainment",Discovery Science
 https://itvorigin.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8?t=606ffcb5820d2
@@ -535,3 +532,158 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star Plus HD
+http://103.157.237.18:9000/play/302/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Pogo
+http://103.157.237.18:9000/play/402/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",National Geographic Channel HD
+http://103.157.237.18:9000/play/502/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",& TV HD
+http://103.157.237.18:9000/play/328/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Disney Stories
+http://103.157.237.18:9000/play/442/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star Sports First
+http://103.157.237.18:9000/play/628/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star Jalsha HD
+http://103.157.237.18:9000/play/202/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Cartoon Network
+http://103.157.237.18:9000/play/401/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star Sports 1 Bangla
+http://103.157.237.18:9000/play/601/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Zee Cafe HD
+http://103.157.237.18:9000/play/709/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Zee Classic
+http://103.157.237.18:9000/play/324/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",BBC Earth
+http://103.157.237.18:9000/play/524/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",MTV
+http://103.157.237.18:9000/play/801/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",History TV18 HD
+http://103.157.237.18:9000/play/520/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Discovery Kids
+http://103.157.237.18:9000/play/417/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star World Premiere HD
+http://103.157.237.18:9000/play/703/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Nat Geo Wild HD
+http://103.157.237.18:9000/play/503/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Disney Junior
+http://103.157.237.18:9000/play/418/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sony SAB HD
+http://103.157.237.18:9000/play/336/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Comedy Central HD
+http://103.157.237.18:9000/play/723/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",& Prive HD
+http://103.157.237.18:9000/play/718/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sony SIX HD
+http://103.157.237.18:9000/play/618/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",UTV Action
+http://103.157.237.18:9000/play/315/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sun Bangla
+http://103.157.237.18:9000/play/215/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",TLC HD
+http://103.157.237.18:9000/play/515/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Colors Bangla Cinema
+http://103.157.237.18:9000/play/214/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sony Ten 2 HD
+http://103.157.237.18:9000/play/614/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",NDTV 24x7
+http://103.157.237.18:9000/play/1009/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sky News
+http://103.157.237.18:9000/play/1004/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Investigation Discovery HD
+http://103.157.237.18:9000/play/514/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Zee Bangla Cinema
+http://103.157.237.18:9000/play/207/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sony BBC Earth HD
+http://103.157.237.18:9000/play/507/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Hungama
+http://103.157.237.18:9000/play/407/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star Movies Select HD
+http://103.157.237.18:9000/play/707/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Animal Planet HD
+http://103.157.237.18:9000/play/526/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",BBC Cbeebies
+http://103.157.237.18:9000/play/408/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Zee Zest
+http://103.157.237.18:9000/play/508/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Colors Cineplex HD
+http://103.157.237.18:9000/play/345/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Good Times
+http://103.157.237.18:9000/play/529/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Disney International HD
+http://103.157.237.18:9000/play/405/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star Sports 3
+http://103.157.237.18:9000/play/605/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Romedy Now HD
+http://103.157.237.18:9000/play/726/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star Bharat HD
+http://103.157.237.18:9000/play/304/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Jalsha Movies HD
+http://103.157.237.18:9000/play/204/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Fox Life HD
+http://103.157.237.18:9000/play/504/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Disney Channel
+http://103.157.237.18:9000/play/404/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Zee Bollywood
+http://103.157.237.18:9000/play/323/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",BBC Lifestyle
+http://103.157.237.18:9000/play/523/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Aaj Tak HD
+http://103.157.237.18:9000/play/1003/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Zoom
+http://103.157.237.18:9000/play/803/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",UTV Movies
+http://103.157.237.18:9000/play/316/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sony Ten 1 HD
+http://103.157.237.18:9000/play/612/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Discovery Turbo
+http://103.157.237.18:9000/play/512/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",& Flix HD
+http://103.157.237.18:9000/play/716/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Bangla Hitz
+http://103.157.237.18:9000/play/211/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",& Pictures HD
+http://103.157.237.18:9000/play/330/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",CNN
+http://103.157.237.18:9000/play/1002/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",BBC World News
+http://103.157.237.18:9000/play/1001/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Zee Action
+http://103.157.237.18:9000/play/322/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Movies Now HD
+http://103.157.237.18:9000/play/724/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Discovery Science
+http://103.157.237.18:9000/play/511/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sony SET HD
+http://103.157.237.18:9000/play/334/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sony MAX HD
+http://103.157.237.18:9000/play/338/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Miniplex HD
+http://103.157.237.18:9000/play/326/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",NDTV Profit Prime
+http://103.157.237.18:9000/play/1010/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",MN+ HD
+http://103.157.237.18:9000/play/730/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star Gold 2
+http://103.157.237.18:9000/play/309/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sony Ten 3 HD
+http://103.157.237.18:9000/play/616/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star World HD
+http://103.157.237.18:9000/play/701/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Bindass
+http://103.157.237.18:9000/play/313/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star Gold Select HD
+http://103.157.237.18:9000/play/312/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Star Gold HD
+http://103.157.237.18:9000/play/308/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Discovery HD World
+http://103.157.237.18:9000/play/509/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",MNX HD
+http://103.157.237.18:9000/play/713/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Sony Max 2
+http://103.157.237.18:9000/play/339/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",& Xplor HD
+http://103.157.237.18:9000/play/331/index.m3u8
+#EXTINF:-1  tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Test;Entertainment",Nick HD+
+http://103.157.237.18:9000/play/413/index.m3u8
