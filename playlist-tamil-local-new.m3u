@@ -416,7 +416,7 @@ http://103.157.237.18:9000/play/442/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/250px-CBeebies.svg.png" group-title="English India;Kids",BBC Cbeebies
 http://103.157.237.18:9000/play/408/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="Tamil International;Kids",Discovery Kids Tamil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="Tamil International;Kids",Discovery Kids
 https://itvorigin.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nickindia.com/wp-content/themes/nick/assets/images/footer-logo-2.png" group-title="English;Kids",Nick HD+
