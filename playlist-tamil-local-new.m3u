@@ -86,6 +86,9 @@ http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGJhj8nq3uI/YBzU5Kv1RRI/AAAAAAAAKTA/boRhskd76hY9WmNiCFyzgRr17HT2lGfSQCLcBGAsYHQ/s0/apple-digital.png" group-title="Tamil Local;Entertainment",Apple Digital
+http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/enmJvFum4gx-55lk52DW4szCLBZlllcZQZ9i9Sh1f944BIlEIgasbNw5H8e74ZJodF4=w720-h310-rw" group-title="Tamil Local;Entertainment",Jayaam TV
 http://hdserver.7starcloud.com:1935/jayaamtv/livetv/playlist.m3u8
 
@@ -310,6 +313,9 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil;Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil;Music",Raj Musix
+http://74.208.86.195:90/RAJMUSIC/index.m3u8?t=606ffcb5820d2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25QRHvhc/Screenshot-2021-04-28-16-56-55-703-org-videolan-vlc-1619609277838.png" group-title="Tamil Local;Music",Kalai ISAI
 http://singamcloud.in:1935/kalaiisai/kalaiisai/playlist.m3u8
@@ -614,6 +620,9 @@ http://103.157.237.18:9000/play/1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1516128705/1083.png" group-title="International;News",Sky News
 http://103.157.237.18:9000/play/1004/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="English;Sports",Astro Cricket
+http://74.208.86.195:90/CN_TAMIL/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/STAR_Sports_3_India.jpg" group-title="English;Sports",Star Sports 3
 http://103.157.237.18:9000/play/605/index.m3u8
 
@@ -655,3 +664,9 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Test Vijay UK
+http://74.208.86.195:90/RED2/index.m3u8?t=606ffcb5820d2
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Test MN TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8?t=606ffcb5820d2
