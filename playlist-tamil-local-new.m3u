@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Tamil;Entertainment",Sun TV
+http://74.208.86.195:90/RED/index.m3u8?t=606ffcb5820d2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay Malaysia
+http://74.208.86.195:90/RED2/index.m3u8?t=606ffcb5820d2
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw" group-title="Tamil Local;Entertainment",Vaigai TV
 http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 
@@ -67,18 +73,6 @@ http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png" group-title="Malayalam Local;Movies",Rasi Malayalam
-http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Tamil Local;Movies",Rasi hollywood
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Hindi Local;Movies",Rasi Hindi
-http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png" group-title="Tamil Local;Lifestyle",Rasi Lifestyle
-http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil International;Entertainment" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png", ADHAVAN HD TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -479,11 +473,17 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Docurama_Logo_August_2015.jpg/220px-Docurama_Logo_August_2015.jpg" group-title="International;Infotainment",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png" group-title="Tamil Local;Lifestyle",Rasi Lifestyle
+http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/200px-BBC_Lifestyle2.svg.png" group-title="English India;Lifestyle",BBC Lifestyle
 http://103.157.237.18:9000/play/523/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2fzeezest.jpg&h=570&w=855&q=100&v=20170226&c=1" group-title="Hindi;Lifestyle",Zee Zest
 http://103.157.237.18:9000/play/508/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Tamil Local;Movies",Rasi hollywood
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/StarMoviesSelectHDLogo.jpg/220px-StarMoviesSelectHDLogo.jpg" group-title="English;Movies",Star Movies Select HD
 http://103.157.237.18:9000/play/707/index.m3u8
@@ -493,9 +493,6 @@ http://103.157.237.18:9000/play/724/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/times-mnx-hd-logo.jpg" group-title="English;Movies",MNX HD
 http://103.157.237.18:9000/play/713/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/180px-STAR_World.svg.png" group-title="English;Entertainment",Star World HD
-http://103.157.237.18:9000/play/701/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mn%2Blogo.jpeg/220px-Mn%2Blogo.jpeg" group-title="English India;Movies",MN+ HD
 http://103.157.237.18:9000/play/730/index.m3u8
@@ -551,6 +548,9 @@ http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" tvg-url="" group-title="International;Lifestyle",FOX LIFE
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/180px-STAR_World.svg.png" group-title="English;Entertainment",Star World HD
+http://103.157.237.18:9000/play/701/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://discover.film/wp-content/uploads/2020/12/film-logo.png" group-title="English;Movies",Discover Film
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
 
@@ -565,6 +565,9 @@ http://103.157.237.18:9000/play/726/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/220px-SET_India_logo.svg.png" group-title="Hindi;Entertainment",Sony SET HD
 http://103.157.237.18:9000/play/334/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Hindi Local;Movies",Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/132px-Sony_MAX.svg.png" group-title="Hindi;Movies",Sony MAX HD
 http://103.157.237.18:9000/play/338/index.m3u8
@@ -641,6 +644,9 @@ http://103.157.237.18:9000/play/614/index.m3u8
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Sony-Ten-3HD.png" group-title="English;Sports",Sony Ten 3 HD
 http://103.157.237.18:9000/play/616/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png" group-title="Malayalam Local;Movies",Rasi Malayalam
+http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/l31LSCkGK8VE7LsrLYmMhVDRWF56ivbOJ7POqoUFrrla9lKuGLpKd25Vab3Eo41b3js" group-title="Malayalam Local;Entertainment",KCV
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 
@@ -664,9 +670,3 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Test Vijay UK
-http://74.208.86.195:90/RED2/index.m3u8?t=606ffcb5820d2
-
-#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Test Sun TV
-http://74.208.86.195:90/RED/index.m3u8?t=606ffcb5820d2
