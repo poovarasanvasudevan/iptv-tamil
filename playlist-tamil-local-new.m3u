@@ -5,9 +5,6 @@ http://74.208.86.195:90/RED/index.m3u8?t=606ffcb5820d2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay Malaysia
 http://74.208.86.195:90/RED2/index.m3u8?t=606ffcb5820d2
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw" group-title="Tamil Local;Entertainment",Vaigai TV
-http://account9.livebox.co.in/vaigaitvhls/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv0tyJmw/newcanvas-1619840386422.png" group-title="Tamil Local;Entertainment",Wins Tv(Madura Tv)
 http://bmlive.net:8000/WINS/winstv/bms.m3u8
 
@@ -32,7 +29,7 @@ http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 #EXTINF:-1 tvg-logo="https://secureservercdn.net/192.169.221.188/108.2ed.myftpupload.com/wp-content/uploads/2020/06/montamilwhite_599x98v1.png" group-title="Tamil International; Entertainment",Mon tamil tv
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGJhj8nq3uI/YBzU5Kv1RRI/AAAAAAAAKTA/boRhskd76hY9WmNiCFyzgRr17HT2lGfSQCLcBGAsYHQ/s0/apple-digital.png" group-title="Tamil Local;Entertainment",Apple Digital
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNBSYQW1/Screenshot-2021-05-13-18-42-23-105-org-videolan-vlc-1620911596261.png" group-title="Tamil Local;Entertainment",Apple Digital
 http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Tamil Local;Entertainment",Rasi Tamil
@@ -200,9 +197,6 @@ https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/img/services/ibc.png" group-title="Tamil International;Entertainment",IBC TAMIL Canada
 https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhrFvZB19oIH9NkuSnHvJbYeahXiKlp3jsHi5Ob=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil International;Entertainment",Shakthi Tv
-http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="Tamil International;Entertainment",Santhora Short Flim
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -268,6 +262,9 @@ https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil;Music",Sun Music
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw" group-title="Tamil Local;Entertainment",Vaigai TV
+http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viRVMKh.png" group-title="Tamil Local;Entertainment",Sangamam TV
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
