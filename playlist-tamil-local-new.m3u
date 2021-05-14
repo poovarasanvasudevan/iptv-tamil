@@ -26,6 +26,9 @@ http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil; Movies",K TV
 http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",KTV Test
+https://mhdtvstreams.in.net/redbox/ReDdX.php?id=2335&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://secureservercdn.net/192.169.221.188/108.2ed.myftpupload.com/wp-content/uploads/2020/06/montamilwhite_599x98v1.png" group-title="Tamil International; Entertainment",Mon tamil tv
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 
@@ -236,6 +239,9 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Vendhar Tv Test
+https://mhdtvstreams.in.net/redbox/ReDdX.php?id=2882&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil;Entertainment",Kalaignar TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -262,6 +268,9 @@ https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil;Music",Sun Music
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Sun Music Test
+https://mhdtvstreams.in.net/redbox/ReDdX.php?id=2832&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw" group-title="Tamil Local;Entertainment",Vaigai TV
 http://account9.livebox.co.in/vaigaitvhls/live.m3u8
@@ -655,3 +664,9 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Zee Tamil Test
+https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8?hdnts=st=1620971896~exp=1620974896~acl=/*~hmac=f8da76f4e48fd6643403057b9375b845a3f819784ca15b806bc80151721ad854
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Chutti Tv Test
+https://mhdtvstreams.in.net/redbox/ReDdX.php?id=2194&e=.m3u8
