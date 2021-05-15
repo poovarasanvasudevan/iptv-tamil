@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Tamil;Entertainment",Sun TV
-http://74.208.86.195:90/RED/index.m3u8?t=606ffcb5820d2
+https://suntvlive.s.llnwi.net/SunTVHD/SunTVHD.isml/.m3u8?p=51&se=1621059329&e=1621088129&h=4e2be266621039bf288e13547d2cf906
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay Malaysia
 http://74.208.86.195:90/RED2/index.m3u8?t=606ffcb5820d2
@@ -656,8 +656,26 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sun TV Test 1
-https://mhdtvstreams.in.net/redbox/ReDdX.php?id=2833&e=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sun TV Test 2
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sun TV Test
 https://suntvlive.s.llnwi.net/SunTVHD/SunTVHD.isml/.m3u8?p=51&se=1621059329&e=1621088129&h=4e2be266621039bf288e13547d2cf906
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",K TV Test
+https://suntvlive.s.llnwi.net/KTVHD/KTVHD.isml/.m3u8?p=47&se=1621059728&e=1621088528&h=8591b2a3125572f51f967b32fd7a10ae
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sun Life Test
+https://suntvlive.s.llnwi.net/SunLife/SunLife.isml/.m3u8?p=51&se=1621059786&e=1621088586&h=6471622ded643da48f4daa1fa558c40a
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Zee Thirai Test
+https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1621056921~exp=1621059921~acl=/*~hmac=b099c72e3138045fa0543e41067ede9d20f49496086b8f1a84b122b9e69ae447
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Vijay Test
+https://sin1.securepath.site/live/6894864475/7163819284/37345.m3u8?t=606ffcb5820d2&token=QhBYV0dYRg4TAQZUAlwCAQAAAwdfClVcWgNUUAUDVFMOB1UEAVNSAAkaSBAQEEJXVQhvWgIbCVYOBwQETRQUEVxAb19QEl4WAAhcBlBWEh4WEVleAxsJVRUWQFgFFFtACAEHARYcRlFJTAFADQVcbVAARloFXBFfV0FcXU0UDgxmVlVbVV4AFgsaVBBPRllBREcKETRcXwxYWlNUQXwIDRl7XlBbUwtZXBgoWw4NRFdQRxwRBFBHF1hAVRNbFFBVCQISGhZTC0FfTBZLQV4Se3pHHBEDQUcAV0dZXg8UW0BUAUUOFhxGXUJnFlcQEEJXVQhVQUQDEVUbGBJcAE4+AVZcXlNXRA1bX0tGCEFVEh4WCF9dD01cF2ZEWVVDDENWCAQDFEk=
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sun News Test
+https://suntvlive.s.llnwi.net/SunNews/SunNews.isml/.m3u8?p=51&se=1621059922&e=1621088722&h=3354c5a15ee391858c984392ee2f9355
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Zee Tamil Test
+https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8?hdnts=st=1621057202~exp=1621060202~acl=/*~hmac=f425474ba8360e3ce87cdaf100c079a53e5de118d5396f346c6a934d33c110ff
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sun Music
+https://suntvlive.s.llnwi.net/SunMusicHD/SunMusicHD.isml/.m3u8?p=57&se=1621060054&e=1621088854&h=a067f371d4a0918dffbb6cee6584b9e6
