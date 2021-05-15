@@ -33,7 +33,7 @@ http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil; Movies",K TV
-https://mhdtvstreams.in.net/redbox/ReDdX.php?id=2335&e=.m3u8
+http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 
 #EXTINF:-1 tvg-logo="https://secureservercdn.net/192.169.221.188/108.2ed.myftpupload.com/wp-content/uploads/2020/06/montamilwhite_599x98v1.png" group-title="Tamil International; Entertainment",Mon tamil tv
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
@@ -655,3 +655,9 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sun TV Test 1
+https://mhdtvstreams.in.net/redbox/ReDdX.php?id=2833&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Entertainment",Sun TV Test 2
+https://suntvlive.s.llnwi.net/SunTVHD/SunTVHD.isml/.m3u8?p=51&se=1621059329&e=1621088129&h=4e2be266621039bf288e13547d2cf906
