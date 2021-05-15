@@ -40,12 +40,10 @@ http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CgvOoJ4ewOfDSZi8OHbmkX6Ucxoqjt70abOuxNN1uPh3uvKnvuEhBOoZXjcCCRWOcq3J=s180-rw" group-title="Tamil Local;Entertainment",Kanchi tv
 http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
-#EXTM3U
-#EXTINF:-1 tvg-id="SunTv.in" tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil; Movies",K TV HD Link 1
+
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil; Movies",K TV HD Link 1
 https://suntvlive.s.llnwi.net/KTVHD/KTVHD.isml/.m3u8?p=47&se=1621059728&e=1621088528&h=8591b2a3125572f51f967b32fd7a10ae
-#EXTM3U
-#EXTINF:-1, tvg-id="SunTv.in" tvg-logo="http://garuda-cdnserver1.tk/storage/" tvg-name="SUN TV"  group-title="TAMIL",SUN TV
-http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60733112f28dd/60733112f28dd.ts
+
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil; Movies",K TV HD Link 2
 http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 
