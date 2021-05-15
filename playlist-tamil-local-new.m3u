@@ -559,3 +559,6 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD Test
+https://suntvlive.s.llnwi.net/SunTVHD/SunTVHD.isml/.m3u8?p=51&se=1621059329&e=1621088129&h=4e2be266621039bf288e13547d2cf906
