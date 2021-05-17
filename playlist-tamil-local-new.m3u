@@ -220,7 +220,7 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Meenakshi.jpeg/revision/latest/scale-to-width-down/180?cb=20191226093709" group-title="Tamil;Entertainment",Meenakshi TV
 https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
@@ -236,12 +236,6 @@ https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chithiram_tv_logo.jpg" group-title="Tamil;Entertainment",Kalaignar Chithiram
 http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
-
-#EXTINF:-1 group-title="Tamil;Entertainment" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg", CAPTAIN TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
 
 #EXTINF:-1 group-title="Tamil;Entertainment" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg", CAPTAIN TV
 https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_480p/index.m3u8
@@ -300,9 +294,6 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil;Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil;Music",Isai Aruvi
-https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil;Music",Raj Musix
 http://74.208.86.195:90/RAJMUSIC/index.m3u8?t=606ffcb5820d2
 
@@ -313,7 +304,7 @@ http://singamcloud.in:1935/kalaiisai/kalaiisai/playlist.m3u8
 http://live.singamcloud.in:1935/applemusic/applemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Tunes_6_Music.jpeg/revision/latest/scale-to-width-down/150?cb=20191226090849" group-title="Tamil;Music",Tunes 6
-https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in-480p/index.m3u8
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-music.png" group-title="Tamil;Music",IBC ISAI
 https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
@@ -382,7 +373,7 @@ http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608980b35450f/608980b35450f.m
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/News_J.jpeg/revision/latest/scale-to-width-down/200?cb=20191226093118" group-title="Tamil;News",News J
-http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b512,b1024,b1824,.smil/chunklist.m3u8
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b1024,b1824,.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/SathiyamFinallogo.png" group-title="Tamil;News",Sathiyam TV
 http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
