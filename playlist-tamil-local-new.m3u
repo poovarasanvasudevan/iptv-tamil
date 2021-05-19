@@ -304,7 +304,7 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil;Music",Raj Musix
-http://74.208.86.195:90/RAJMUSIC/index.m3u8?t=606ffcb5820d2
+http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/193137.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil;Music",Jaya Max
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/51824.m3u8
@@ -561,9 +561,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhkI95a.png" tvg-url="" group-title="India; English BusinessNews",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="English;Sports",Astro Cricket
-http://74.208.86.195:90/CN_TAMIL/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png" group-title="Malayalam Local;Movies",Rasi Malayalam
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
 
@@ -593,6 +590,3 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Vijay Test
-http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/607330b05d27a/607330b05d27a.m3u8
