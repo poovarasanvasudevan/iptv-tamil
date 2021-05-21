@@ -596,20 +596,20 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",History TV18 Tamil 1
-https://tvstream.space/jtv/jioweeebssss.php?c=History_TV18_Tamil&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",History TV18 Tamil
+https://tvstream.space/jtv/jioweeebssss.php?c=History_Tamil&q=1200&e=.m3u8
  
-#EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",History TV18 Tamil 2
-https://tvstream.space/jtv/jioweeebssss.php?c=History_TV18_SD_Tamil&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",History TV18 Tamil 3
-https://tvstream.space/jtv/jioweeebssss.php?c=History_TV_SD_Tamil&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",History TV18 Tamil 4 
-https://tvstream.space/jtv/jioweeebssss.php?c=History_TV_Tamil&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",History TV18 Tamil 5
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",History TV18
 https://tvstream.space/jtv/jioweeebssss.php?c=History_TV18_SD&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",History TV18 Tamil 6
-https://tvstream.space/jtv/jioweeebssss.php?c=History_TV18_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",Nick Tamil
+https://tvstream.space/jtv/jioweeebssss.php?c=Nick_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",D Tamil
+https://tvstream.space/jtv/jioweeebssss.php?c=D_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",Win TV
+https://tvstream.space/jtv/jioweeebssss.php?c=Win_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",Madhimugam
+https://tvstream.space/jtv/jioweeebssss.php?c=Madhimugam_TV&q=1200&e=.m3u8
