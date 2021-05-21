@@ -636,19 +636,25 @@ https://tvstream.space/jtv/jioweeebssss.php?c=Raj_News_24x7&q=1200&e=.m3u8
 https://tvstream.space/jtv/jioweeebssss.php?c=Jaya_Plus&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",History TV18 Tamil HD 2
-https://tvstream.space/jtv/jioweeebssss.php?c=History_TV18_HD_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jioweeebssss.php?c=History_18_Tamil&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",History TV18 Tamil HD 3
-https://tvstream.space/jtv/jioweeebssss.php?c=History_HD_TV18_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jioweeebssss.php?c=History_18_HD_Tamil&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",D Tamil
-https://tvstream.space/jtv/jioweeebssss.php?c=Discovery_TV_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jioweeebssss.php?c=Discovery_Channel_Tamil&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Madhimugam
-https://tvstream.space/jtv/jioweeebssss.php?c=Mathimugam_TV_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jioweeebssss.php?c=Mathimugam_Channel_Tamil&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Madhimugam
-https://tvstream.space/jtv/jioweeebssss.php?c=Madhimugam_TV_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jioweeebssss.php?c=Madhimugam_Channel_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Madhimugam
+https://tvstream.space/jtv/jioweeebssss.php?c=Madhimugam_News_Tamil&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Sonic Nickelodeon
-https://tvstream.space/jtv/jioweeebssss.php?c=Sonic_Nickelodeon_SD_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jioweeebssss.php?c=Sonic_Channel_SD_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local;Entertainment",Sonic Nickelodeon
+https://tvstream.space/jtv/jioweeebssss.php?c=Sonic_Tamil&q=1200&e=.m3u8
