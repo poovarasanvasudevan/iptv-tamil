@@ -107,6 +107,12 @@ http://89.187.162.89/Capital_TV-LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/TVI_HD_logo.png/150px-TVI_HD_logo.png" group-title="Tamil International; Entertainment",Tamil Vision
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://analaiexpress.ca/wp-content/themes/aenew/assets/images/logo.png" group-title="Tamil International;Entertainment",Analai express tv
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png" group-title="Tamil International;Entertainment",Vasantham TV
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+
 #EXTINF:-1 group-title="Tamil;Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/MKTV.png/revision/latest/scale-to-width-down/200?cb=20191225171218",MK TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -130,9 +136,6 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil;Entertainment" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg", Vendhar TV
 https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://analaiexpress.ca/wp-content/themes/aenew/assets/images/logo.png" group-title="Tamil International;Entertainment",Analai express tv
-http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Tamil International;Entertainment",EET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -591,15 +594,3 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 1
-https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 2
-https://askmedia.livebox.co.in/DanMusichls/2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
-https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 4
-https://askmedia.livebox.co.in/OHMTVhls/7.m3u8
