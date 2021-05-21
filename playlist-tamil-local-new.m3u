@@ -98,7 +98,7 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-black.png" group-title="Tamil International;Entertainment",IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/img/services/ibc.png" group-title="Tamil International;Entertainment",IBC TAMIL Canada
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/playstore/images/814cf36cf2dca5a19a57b32c771e611e" group-title="Tamil International;Entertainment",IBC TAMIL Canada
 https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/CapitalTVlogo.gif" group-title="Tamil International;Entertainment",Capital Tv
@@ -591,3 +591,15 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 
 #EXTINF:-1 tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Local;Entertainment",UTv Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 1
+https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 2
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
+https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 4
+https://askmedia.livebox.co.in/OHMTVhls/7.m3u8
