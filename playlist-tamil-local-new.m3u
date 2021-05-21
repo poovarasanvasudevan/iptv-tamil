@@ -24,10 +24,7 @@ http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/193202.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhHYAJnlfpmETcagytcrimbj_hMFUH1VGIKiJVuRw=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;Entertainment",Raj TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+https://tvstream.space/jtv/jioweeebsss.php?c=Raj_TV&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD UK
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
@@ -40,6 +37,9 @@ http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60734d4da621b/60734d4da621b.m
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6079438879c23/6079438879c23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/J_Movie_logo.jpeg/revision/latest/scale-to-width-down/250?cb=20200121094748" group-title="Tamil;Movies",J Movie
+https://tvstream.space/jtv/jioweeebsss.php?c=J_Movies&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/235?cb=20191231195635" group-title="Tamil;Movies",Raj Digital Plus
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/60418.m3u8
@@ -139,6 +139,9 @@ https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Puthuyugam_TV.gif/220px-Puthuyugam_TV.gif" group-title="Tamil;Entertainment",Puthuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839" group-title="Tamil;Entertainment",Peppers TV
+https://tvstream.space/jtv/jioweeebsss.php?c=Peppers_TV&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viRVMKh.png" group-title="Tamil Local;Entertainment",Sangamam TV
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
@@ -340,6 +343,9 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/3K5Cs3r8X9Zz96EC9Uue5FjwxlujLw3K780jYqr-bM8fRbbEac8onhtwVfB4rrqhXtaKPQ1dvszJxL0=w960-h960-n-o-v1" group-title="Tamil Local;Devotional",Laxmi Tv
 http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Jothi_TV.jpg/revision/latest/scale-to-width-down/260?cb=20200818181329" group-title="Tamil;Devotional",Jothi TV
+https://tvstream.space/jtv/jioweeebsss.php?c=Sahana_Music&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/z7Qxbw9cMlo0bnbJDqyEMkMHZoeTwOBCMcG-LUxbbq0SxWTKdb9fQRryNGY_ifyTUkQ=s180-rw" group-title="Tamil Local;Devotional",Om Dharisanam
 http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR
