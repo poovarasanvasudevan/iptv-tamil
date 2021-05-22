@@ -21,7 +21,7 @@ http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/145637.m3u8
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Polimer-TV.png/revision/latest/scale-to-width-down/250?cb=20191224100831" group-title="Tamil;Entertainment",Polimer
-http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhHYAJnlfpmETcagytcrimbj_hMFUH1VGIKiJVuRw=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;Entertainment",Raj TV
 https://tvstream.space/jtv/jonline.php?c=Raj_TV&q=1200&e=.m3u8
@@ -141,7 +141,7 @@ https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Peppers.jpeg/revision/latest/scale-to-width-down/250?cb=20191224095839" group-title="Tamil;Entertainment",Peppers TV
-http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
+http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viRVMKh.png" group-title="Tamil Local;Entertainment",Sangamam TV
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
@@ -159,7 +159,7 @@ http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunk
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Tamil;Entertainment" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg", CAPTAIN TV
-http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Meenakshi.jpeg/revision/latest/scale-to-width-down/180?cb=20191226093709" group-title="Tamil;Entertainment",Meenakshi TV
 https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
