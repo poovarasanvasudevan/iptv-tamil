@@ -116,6 +116,9 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://analaiexpress.ca/wp-content/themes/aenew/assets/images/logo.png" group-title="Tamil International;Entertainment",Analai express tv
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhf7D7P5dxzCx-n0one2qDeI-IuX1nrb1NHdtw9=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil International;Entertainment",Pakalavan TV
+http://198.144.149.82:8080/PAKALAVAN_WEB/tracks-v1a1/mono.m3u8?token=PK
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Tamil International;Entertainment",EET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -497,6 +500,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="English;Movies",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="English;Movies",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/275px-Cinemax_new.png" group-title="English;Movies",CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 
@@ -587,6 +593,24 @@ http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://kcltv.com/images/logo.jpg" group-title="Malayalam Local;Entertainment",Kcl Tv
 http://kcltv.livebox.co.in:80/kclhls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Kerala_Vision.jpeg/revision/latest/scale-to-width-down/240?cb=20191228094530" group-title="Malayalam;Entertainment",Kerala Vision
+http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fmaa2-3.fna.fbcdn.net/v/t31.18172-8/20545323_850370475119313_7020688018565467846_o.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=vfJsMOuSSOEAX_zEwxs&_nc_ht=scontent.fmaa2-3.fna&oh=2ff8f9332f35badb0c8a7b3a414ba6de&oe=60CDF62D" group-title="Malayalam;Entertainment",Pulari Tv
+http://192.99.2.28/pularitv_hls/pularitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://m4tv.com.au/assests/images/logo.png" group-title="Malayalam;Entertainment",M4 Malayalam Australia
+http://app.m4stream.live/mfourmalayalamhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-acv-medley-6268-300x225.jpg" group-title="Malayalam;Entertainment",acv comex
+http://cdn.asianetmobiletvplus.com/channels/acvcomex_xfucgtpccbhpdvtlbsnaeszjqliqupju/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjPYdUk0HYtpa58dpCNQmSOwuTLORjh8addZM3R2A=s88-c-k-c0x00ffffff-no-rj" group-title="Malayalam;Entertainment",acv movies
+http://cdn.asianetmobiletvplus.com/channels/acvmovies_syaxyjhlzbgqqejcduoebaaunnuhbcdq/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fmaa2-2.fna.fbcdn.net/v/t1.6435-9/69942048_120733902637440_3333012617332523008_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=7qyNIhC0QmAAX-yHQ2T&_nc_ht=scontent.fmaa2-2.fna&oh=fb56b2d559d1ef70811ebd98acdbad05&oe=60CF4546" group-title="Malayalam;Entertainment",UBL HD
+http://cloud.logicwebs.in:1935/ubl/ublchannel/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://wayanadvision.in/wp-content/uploads/2020/04/wayanadvision-logo.png" group-title="Malayalam Local;Entertainment",Wayanad Vision
 http://adhiyarnetworks.in:80/wayanadvisionhls/wayanadvision.m3u8
 
@@ -637,6 +661,3 @@ https://tvstream.space/jtv/jonline.php?c=Jaya_Plus&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Win_TV.jpeg/revision/latest/scale-to-width-down/230?cb=20191226082027" group-title="Tamil;News",Win TV
 https://tvstream.space/jtv/jonline.php?c=Win_TV&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Polimer Test
-http://kutty.webd.pro:80/pi3112.php?https://tvstream.space/jtv/jonlinne.php?c=Polimer_TV&q=1200&e=.m3u8
