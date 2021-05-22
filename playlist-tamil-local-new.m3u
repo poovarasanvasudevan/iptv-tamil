@@ -24,7 +24,7 @@ http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhHYAJnlfpmETcagytcrimbj_hMFUH1VGIKiJVuRw=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;Entertainment",Raj TV
-https://tvstream.space/jtv/jonlinne.php?c=Raj_TV&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinnee.php?c=Raj_TV&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD UK
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
@@ -39,7 +39,7 @@ http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60734d4da621b/60734d4da621b.m
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6079438879c23/6079438879c23.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/J_Movie_logo.jpeg/revision/latest/scale-to-width-down/250?cb=20200121094748" group-title="Tamil;Movies",J Movie
-https://tvstream.space/jtv/jonlinne.php?c=J_Movies&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=J_Movies&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/235?cb=20191231195635" group-title="Tamil;Movies",Raj Digital Plus
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/60418.m3u8
@@ -348,7 +348,7 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3
 http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Jothi_TV.jpg/revision/latest/scale-to-width-down/260?cb=20200818181329" group-title="Tamil;Devotional",Jothi TV
-https://tvstream.space/jtv/jonlinne.php?c=Sahana_Music&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Sahana_Music&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/z7Qxbw9cMlo0bnbJDqyEMkMHZoeTwOBCMcG-LUxbbq0SxWTKdb9fQRryNGY_ifyTUkQ=s180-rw" group-title="Tamil Local;Devotional",Om Dharisanam
 http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR
@@ -615,43 +615,43 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English;Movies",Sony Pix HD
-https://tvstream.space/jtv/jonlinne.php?c=Sony_Pix_HD&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Sony_Pix_HD&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil;Infotainment",History TV18 HD Tamil
-https://tvstream.space/jtv/jonlinne.php?c=History_18_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=History_18_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil;Infotainment",Sony BBC Earth HD Tamil
-https://tvstream.space/jtv/jonlinne.php?c=Sony_BBC_Earth_HD_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Sony_BBC_Earth_HD_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/112293-DTamillogo.jpg?format=webp&w=750&dpr=1.0" group-title="Tamil;Infotainment",D Tamil
-https://tvstream.space/jtv/jonlinne.php?c=Discovery_Channel_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Discovery_Channel_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Animal_Planet_HD2.png/revision/latest/scale-to-width-down/240?cb=20200321210959" group-title="Tamil;Infotainment",Animal Planet HD Tamil
-https://tvstream.space/jtv/jonlinne.php?c=Animal_Planet_HD_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Animal_Planet_HD_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Travel_XP_Tamil.jpeg/revision/latest/scale-to-width-down/200?cb=20201008180458" group-title="Tamil;Lifestyle",Travel XP Tamil
-https://tvstream.space/jtv/jonlinne.php?c=Travel_XP_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Travel_XP_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Tamil;Kids",Nick Tamil
-https://tvstream.space/jtv/jonlinne.php?c=Nick_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Nick_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20190401004340" group-title="Tamil;Kids",Cartoon Network Tamil
-https://tvstream.space/jtv/jonlinne.php?c=Cartoon_Network_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Cartoon_Network_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Sonyyay.png/revision/latest/scale-to-width-down/150?cb=20190818013417" group-title="Tamil;Kids",Sony Yay Tamil
-https://tvstream.space/jtv/jonlinne.php?c=Sony_Yay_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Sony_Yay_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/DKids2021.png/revision/latest/scale-to-width-down/215?cb=20210413182436" group-title="Tamil;Kids",Discovery Kids
-https://tvstream.space/jtv/jonlinne.php?c=Discovery_Kids_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Discovery_Kids_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Pogo_2017.png/revision/latest/scale-to-width-down/250?cb=20170908084347" group-title="Tamil;Kids",Pogo Tamil
-https://tvstream.space/jtv/jonlinne.php?c=Pogo_Tamil&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Pogo_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Raj_News_Tamil.jpeg/revision/latest/scale-to-width-down/250?cb=20191226054121" group-title="Tamil;News",Raj News
-https://tvstream.space/jtv/jonlinne.php?c=Raj_News_24x7&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Raj_News_24x7&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Jaya_Plus.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113458" group-title="Tamil;News",Jaya Plus
-https://tvstream.space/jtv/jonlinne.php?c=Jaya_Plus&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Jaya_Plus&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Win_TV.jpeg/revision/latest/scale-to-width-down/230?cb=20191226082027" group-title="Tamil;News",Win TV
-https://tvstream.space/jtv/jonlinne.php?c=Win_TV&q=1200&e=.m3u8
+https://tvstream.space/jtv/jonlinne.php?c=Win_TV&e=.m3u8
