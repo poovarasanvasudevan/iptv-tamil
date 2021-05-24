@@ -676,3 +676,9 @@ https://tvstream.space/jtv/jonlinneEe.php?c=Travel_XP_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English;Movies",Sony Pix HD
 https://tvstream.space/jtv/jonlinneEe.php?c=Sony_Pix_HD&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",History Telugu
+http://pn.tvott.info:80/live/307213221043/307213221043/83995.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",History Hindi
+http://pn.tvott.info:80/live/307213221043/307213221043/83661.m3u8
