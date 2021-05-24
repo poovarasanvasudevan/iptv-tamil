@@ -15,7 +15,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608981748ea1d/608981748ea1d.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil;Entertainment",Jaya Tv
-http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/145637.m3u8
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201807/colors_tamil.png.jpg" group-title="Tamil;Entertainment",Colors Tamil
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
@@ -645,7 +645,7 @@ https://tvstream.space/jtv/jonlinneEe.php?c=Sony_Yay_Tamil&e=.m3u8
 https://tvstream.space/jtv/jonlinneEe.php?c=Discovery_Kids_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Pogo_2017.png/revision/latest/scale-to-width-down/250?cb=20170908084347" group-title="Tamil;Kids",Pogo Tamil
-https://tvstream.space/jtv/jonlinneEe.php?c=Pogo_Tamil&e=.m3u8
+http://dorakutty.tk/redboxdora6210yoyo5/Dora.php?id=2193&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Raj_News_Tamil.jpeg/revision/latest/scale-to-width-down/250?cb=20191226054121" group-title="Tamil;News",Raj News
 https://tvstream.space/jtv/jonlinneEe.php?c=Raj_News_24x7&e=.m3u8
