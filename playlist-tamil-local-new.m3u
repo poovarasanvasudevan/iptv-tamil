@@ -621,7 +621,7 @@ https://tvstream.space/jtv/jonlinneEe.php?c=Sony_Pix_HD&e=.m3u8
 https://tvstream.space/jtv/jonlinneEe.php?c=History_18_Tamil&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil;Infotainment",Sony BBC Earth HD Tamil
-https://tvstream.space/jtv/jonlinneEe.php?c=Sony_BBC_Earth_HD_Tamil&e=.m3u8
+http://45.87.29.50:25461/live/307213221043/307213221043/83952.m3u8?token=SDNwWEptbXM2SW5qVzRI
 
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/112293-DTamillogo.jpg?format=webp&w=750&dpr=1.0" group-title="Tamil;Infotainment",D Tamil
 https://tvstream.space/jtv/jonlinneEe.php?c=Discovery_Channel_Tamil&e=.m3u8
