@@ -17,14 +17,14 @@ http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608981748ea1d/608981748ea1d.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil;Entertainment",Jaya Tv
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/145637.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201807/colors_tamil.png.jpg" group-title="Tamil;Entertainment",Colors Tamil
-http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201807/colors_tamil.png.jpg" group-title="Tamil;Entertainment",Colors Tamil HD
+http://pn.tvott.info:80/live/307213221043/307213221043/83965.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Polimer-TV.png/revision/latest/scale-to-width-down/250?cb=20191224100831" group-title="Tamil;Entertainment",Polimer
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhHYAJnlfpmETcagytcrimbj_hMFUH1VGIKiJVuRw=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;Entertainment",Raj TV
-https://tvstream.space/jtv/jonlinneEe.php?c=Raj_TV&e=.m3u8
+http://pn.tvott.info:80/live/307213221043/307213221043/83953.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD UK
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
@@ -39,7 +39,7 @@ http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60734d4da621b/60734d4da621b.m
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6079438879c23/6079438879c23.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/J_Movie_logo.jpeg/revision/latest/scale-to-width-down/250?cb=20200121094748" group-title="Tamil;Movies",J Movie
-https://tvstream.space/jtv/jonlinneEe.php?c=J_Movies&e=.m3u8
+http://pn.tvott.info:80/live/307213221043/307213221043/83898.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/235?cb=20191231195635" group-title="Tamil;Movies",Raj Digital Plus
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/60418.m3u8
@@ -348,7 +348,7 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3
 http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Jothi_TV.jpg/revision/latest/scale-to-width-down/260?cb=20200818181329" group-title="Tamil;Devotional",Jothi TV
-https://tvstream.space/jtv/jonlinneEe.php?c=Sahana_Music&e=.m3u8
+http://pn.tvott.info:80/live/307213221043/307213221043/83909.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/z7Qxbw9cMlo0bnbJDqyEMkMHZoeTwOBCMcG-LUxbbq0SxWTKdb9fQRryNGY_ifyTUkQ=s180-rw" group-title="Tamil Local;Devotional",Om Dharisanam
 http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR
@@ -617,8 +617,8 @@ http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English;Movies",Sony Pix HD
 https://tvstream.space/jtv/jonlinneEe.php?c=Sony_Pix_HD&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil;Infotainment",History TV18 HD Tamil
-https://tvstream.space/jtv/jonlinneEe.php?c=History_18_Tamil&e=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil;Infotainment",History TV18 HD
+http://pn.tvott.info:80/live/307213221043/307213221043/83961.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil;Infotainment",Sony BBC Earth HD Tamil
 http://pn.tvott.info:80/live/307213221043/307213221043/83952.m3u8
@@ -639,7 +639,7 @@ http://dorakutty.tk/redboxdora6210yoyo5/Dora.php?id=2190&e=.m3u8
 http://dorakutty.tk/redboxdora6210yoyo5/Dora.php?id=2191&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Sonyyay.png/revision/latest/scale-to-width-down/150?cb=20190818013417" group-title="Tamil;Kids",Sony Yay Tamil
-https://tvstream.space/jtv/jonlinneEe.php?c=Sony_Yay_Tamil&e=.m3u8
+http://pn.tvott.info:80/live/307213221043/307213221043/83924.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/DKids2021.png/revision/latest/scale-to-width-down/215?cb=20210413182436" group-title="Tamil;Kids",Discovery Kids
 http://dorakutty.tk/redboxdora6210yoyo5/Dora.php?id=2192&e=.m3u8
@@ -648,27 +648,27 @@ http://dorakutty.tk/redboxdora6210yoyo5/Dora.php?id=2192&e=.m3u8
 http://dorakutty.tk/redboxdora6210yoyo5/Dora.php?id=2193&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Raj_News_Tamil.jpeg/revision/latest/scale-to-width-down/250?cb=20191226054121" group-title="Tamil;News",Raj News
-https://tvstream.space/jtv/jonlinneEe.php?c=Raj_News_24x7&e=.m3u8
+http://pn.tvott.info:80/live/307213221043/307213221043/83919.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Jaya_Plus.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113458" group-title="Tamil;News",Jaya Plus
-https://tvstream.space/jtv/jonlinneEe.php?c=Jaya_Plus&e=.m3u8
+http://pn.tvott.info:80/live/307213221043/307213221043/83930.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Win_TV.jpeg/revision/latest/scale-to-width-down/230?cb=20191226082027" group-title="Tamil;News",Win TV
-https://tvstream.space/jtv/jonlinneEe.php?c=Win_TV&e=.m3u8
+http://pn.tvott.info:80/live/307213221043/307213221043/83900.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Colors Tamil HD
-http://pn.tvott.info:80/live/307213221043/307213221043/83965.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Imayam
+http://pn.tvott.info:80/live/307213221043/307213221043/83902.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;News",History
-http://pn.tvott.info:80/live/307213221043/307213221043/83961.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",tune 6
+http://pn.tvott.info:80/live/307213221043/307213221043/83904.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;News",D World
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Discovery HD
 http://pn.tvott.info:80/live/307213221043/307213221043/83963.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Raj TV
-http://pn.tvott.info:80/live/307213221043/307213221043/83953.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Cauvery News
+http://pn.tvott.info:80/live/307213221043/307213221043/83913.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Tata Sky 
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Tata Sky Tamil Cinema
 http://pn.tvott.info:80/live/307213221043/307213221043/83946.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil;News",Vijay Super
@@ -676,3 +676,30 @@ http://pn.tvott.info:80/live/307213221043/307213221043/83944.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil;News",Madhimugam
 http://pn.tvott.info:80/live/307213221043/307213221043/83920.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Flowers
+http://pn.tvott.info:80/live/307213221043/307213221043/83931.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",VASANTHAM TV SINGAPORE
+http://pn.tvott.info:80/live/307213221043/307213221043/83939.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Akaram Mix
+http://pn.tvott.info:80/live/307213221043/307213221043/83942.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Zee Tamil HD
+http://pn.tvott.info:80/live/307213221043/307213221043/83943.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",NAT GEO WILD HD
+http://pn.tvott.info:80/live/307213221043/307213221043/83957.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",NATIONAL GEOGRAPHIC HD
+http://pn.tvott.info:80/live/307213221043/307213221043/83956.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",JAYA TV HD
+http://pn.tvott.info:80/live/307213221043/307213221043/83960.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",FOX LIFE HD
+http://pn.tvott.info:80/live/307213221043/307213221043/83962.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;News",Tamil General
+http://pn.tvott.info:80/live/307213221043/307213221043/83969.m3u8
