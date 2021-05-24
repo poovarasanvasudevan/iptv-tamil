@@ -5,10 +5,10 @@ http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60733112f28dd/60733112f28dd.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg/revision/latest/scale-to-width-down/200?cb=20201221111545" group-title="Tamil;Entertainment",Sun TV SD
 http://dorakutty.tk/redboxdora6210yoyo5/suntv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD Link 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay India HD Link 1
 http://pn.tvott.info:80/live/307213221043/307213221043/83951.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD Link 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay Malaysia Link 2
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/19744.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil;Entertainment",Kalaignar TV 
@@ -17,7 +17,7 @@ http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/19744.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil;Entertainment",Zee Tamil
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil;Entertainment",Zee Tamil HD
 http://pn.tvott.info:80/live/307213221043/307213221043/83943.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest/scale-to-width-down/200?cb=20171015203720" group-title="Tamil;Entertainment",Zee Tamil SD
