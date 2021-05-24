@@ -5,9 +5,6 @@ http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60733112f28dd/60733112f28dd.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/19744.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD
-http://pn.tvott.info:80/live/307213221043/307213221043/83951.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil;Entertainment",Kalaignar TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
