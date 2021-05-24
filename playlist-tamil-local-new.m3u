@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD 1
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60733112f28dd/60733112f28dd.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg/revision/latest/scale-to-width-down/200?cb=20201221111545" group-title="Tamil;Entertainment",Sun TV HD 2
+#EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD 2
 http://pn.tvott.info:80/live/307213221043/307213221043/83947.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay India HD
@@ -480,9 +480,6 @@ http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
 http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil;Infotainment",History TV18 HD Tamil
-https://tvstream.space/jtv/jiowebtVv.php?c=History_18_Tamil&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil;Infotainment",History TV18 HD
 http://pn.tvott.info:80/live/307213221043/307213221043/83961.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil;Infotainment",Sony BBC Earth HD Tamil
