@@ -24,7 +24,7 @@ http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=rk
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608981748ea1d/608981748ea1d.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil;Entertainment",Jaya TV HD
-http://pn.tvott.info:80/live/307205106111/307205106111/83960.m3u8
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Jaya_TV.jpg/revision/latest/scale-to-width-down/270?cb=20200817140359" group-title="Tamil;Entertainment",Jaya TV SD
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/145637.m3u8
@@ -721,3 +721,6 @@ http://pn.tvott.info:80/live/307205106111/307205106111/83881.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="English;Sports",Star sports 1 HD
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=rk
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil;Infotainment",Sony BBC Earth HD Tamil
+http://45.87.29.50:25461/live/307213221043/307213221043/83952.m3u8
