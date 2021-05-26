@@ -722,5 +722,5 @@ http://pn.tvott.info:80/live/307211111057/307211111057/83881.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="English;Sports",Star sports 1 HD
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=rk
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English;Sports",Star sports 1 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English;Sports",Star sports 2 HD
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
