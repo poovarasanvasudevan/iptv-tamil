@@ -485,11 +485,11 @@ http://pn.tvott.info:80/live/307201171111/307201171111/83961.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil;Infotainment",Sony BBC Earth HD Tamil
 http://pn.tvott.info:80/live/307201171111/307201171111/83952.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="English;Infotainment",Discovery Tamil HD
+http://pn.tvott.info:80/live/307201171111/307201171111/83963.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/250?cb=20171113181251" group-title="Tamil;Infotainment",NATIONAL GEOGRAPHIC Tamil HD
 http://pn.tvott.info:80/live/307201171111/307201171111/83956.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="English;Infotainment",Discovery HD
-http://pn.tvott.info:80/live/307201171111/307201171111/83963.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/National_Geographic_Wild_2018_%28HD%29.svg/revision/latest/scale-to-width-down/185?cb=20190712195623" group-title="English;Infotainment",NAT GEO WILD HD
 http://pn.tvott.info:80/live/307201171111/307201171111/83957.m3u8
@@ -714,7 +714,7 @@ http://dorakutty.tk/dorakutty502/suntv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/235?cb=20191231195635" group-title="Tamil;Movies",Test Raj Digital Plus
 http://dorakutty.tk/dorakutty502/Dora.php?id=2878&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil;Music",Raj Musix
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/803180234698698752/u5jMmejR_400x400.jpg" group-title="Tamil;Music",Test Raj Musix
 http://dorakutty.tk/dorakutty502/Dora.php?id=2907&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Tamil;Kids",Test Nick Tamil
@@ -728,3 +728,9 @@ http://dorakutty.tk/dorakutty502/Dora.php?id=2192&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Pogo_2017.png/revision/latest/scale-to-width-down/250?cb=20170908084347" group-title="Tamil;Kids",Test Pogo Tamil
 http://dorakutty.tk/dorakutty502/Dora.php?id=2193&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Kids",Test Sachin music
+http://singamcloud.in:1935/sachinmusichd/sachinmusichd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil;Kids",Test SS Varma TV
+http://stream.singamcloud.in:1935/ssvarmatv/ssvarmatv/playlist.m3u8
