@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD
-http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60733112f28dd/60733112f28dd/SunTVHD-audio_1=64000-video=5000000.m3u8?p=51&se=1622019659&e=1622048459&h=674e184ad38160c1c2f91c6c13e11bbc
+http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60733112f28dd/60733112f28ddSunTVHD-audio_1=64000-video=5000000.m3u8?p=51&se=1622019659&e=1622048459&h=674e184ad38160c1c2f91c6c13e11bbc
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg/revision/latest/scale-to-width-down/200?cb=20201221111545" group-title="Tamil;Kids",Sun TV SD
 http://dorakutty.tk/dorakutty502/suntv.m3u8
