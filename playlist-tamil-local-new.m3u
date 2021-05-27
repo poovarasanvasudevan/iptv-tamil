@@ -338,6 +338,9 @@ http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif" group-title="Tamil International;Music",Capital Music
 http://89.187.162.89/Capital_Music/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local;Music",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0qv7b92/Screenshot-2021-04-28-14-38-57-046-org-videolan-vlc-1619601997394.png" group-title="Tamil Local;Music",Isai Saral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 
