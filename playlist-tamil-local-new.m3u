@@ -6,10 +6,10 @@ http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60733112f28dd/60733112f28dd.m
 http://dorakutty.tk/dorakutty502/suntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay India HD
-http://45.87.29.50:25461/live/307211111057/307211111057/83951.m3u8?token=TWJxNk1WbG1Vakl2cHpJ
+http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay Malaysia HD
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/290894164.m3u8
+http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/19744.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil;Entertainment",Kalaignar TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
