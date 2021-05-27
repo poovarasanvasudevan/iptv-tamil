@@ -491,11 +491,11 @@ http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
 #EXTINF:-1 tvg-logo="https://img.dtnext.in/Articles/2021/Mar/202103230353571370_Kalvi-TV-to-start-sessions-for-Class-9-to-11-again_SECVPF.gif" group-title="Tamil;Education",Kalvi Tv
 http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil;Infotainment",History TV18 HD Tamil
-http://45.87.29.50:25461/live/307213221043/307213221043/83961.m3u8?token=VlgwZDFCOTdWRDduc0Fq
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil;Infotainment",THistory TV18 HD Tamil
+http://45.87.29.50:25461/live/307213221043/307213221043/83961.m3u8?token=TWJxNk1WbG1Vakl2cHpJ
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil;Infotainment",Sony BBC Earth HD Tamil
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66759
+http://45.87.29.50:25461/live/307213221043/307213221043/83952.m3u8?token=VlgwZDFCOTdWRDduc0Fq
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="English;Infotainment",Discovery Tamil HD
 http://45.87.29.50:25461/live/307213221043/307213221043/83963.m3u8?token=VlgwZDFCOTdWRDduc0Fq
