@@ -8,6 +8,9 @@ http://dorakutty.tk/dorakutty502/suntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay India HD
 http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay India HD
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/290894164.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay Malaysia HD
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/19744.m3u8
 
@@ -30,7 +33,7 @@ http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/145637.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil;Entertainment",Colors Tamil HD
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/55294
+http://185.180.221.194:8278/streams/d/Colorhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201807/colors_tamil.png.jpg" group-title="Tamil;Entertainment",Colors Tamil SD
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
@@ -39,7 +42,7 @@ http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhHYAJnlfpmETcagytcrimbj_hMFUH1VGIKiJVuRw=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;Entertainment",Raj TV
-http://pn.tvott.info:80/live/307211111057/307211111057/83953.m3u8
+http://212.224.98.196:2200/R-EX/TAMIL_RAJ_TV-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD UK
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
@@ -60,7 +63,7 @@ http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6079438879c23/6079438879c23.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/J_Movie_logo.jpeg/revision/latest/scale-to-width-down/250?cb=20200121094748" group-title="Tamil;Movies",J Movie
-http://pn.tvott.info:80/live/307211111057/307211111057/83898.m3u8
+http://212.224.98.196:2200/R-EX/TAMIL_J_MOVIES-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/235?cb=20191231195635" group-title="Tamil;Movies",Raj Digital Plus
 http://dorakutty.tk/dorakutty502/Dora.php?id=2878&e=.m3u8
@@ -447,7 +450,7 @@ https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98
 http://pn.tvott.info:80/live/307211111057/307211111057/83919.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Jaya_Plus.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113458" group-title="Tamil;News",Jaya Plus
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/55207
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_PLUS-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Win_TV.jpeg/revision/latest/scale-to-width-down/230?cb=20191226082027" group-title="Tamil;News",Win TV
 http://pn.tvott.info:80/live/307211111057/307211111057/83900.m3u8
