@@ -742,3 +742,9 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mon
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English;Sports",Star sports 2 HD
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cC2P039/Screenshot-2021-04-28-14-39-13-473-org-videolan-vlc-1619602042079.png" group-title="Tamil Local;Music",Apple Music
+http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w792788465.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cC2P039/Screenshot-2021-04-28-14-39-13-473-org-videolan-vlc-1619602042079.png" group-title="Tamil Local;Music",Sachin Music
+http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
