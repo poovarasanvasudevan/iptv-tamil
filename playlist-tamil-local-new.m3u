@@ -236,7 +236,7 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5TustIHU0vxCAra4G3N40F05j0DzZKdbO9y4pjrI4TMndDtue6_XsWCiici2L_pvZ0A=s180-rw" group-title="Tamil Local;Entertainment",QMAX TV TVR
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5TustIHU0vxCAra4G3N40F05j0DzZKdbO9y4pjrI4TMndDtue6_XsWCiici2L_pvZ0A=s180-rw" group-title="Tamil Local;Entertainment",Qmax TV Ramnad
 http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv0tyJmw/newcanvas-1619840386422.png" group-title="Tamil Local;Entertainment",Wins Tv(Madura Tv)
@@ -319,9 +319,6 @@ http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sr5-6eljq5LvnXBQt1maEBiDI0Batwfo1PSMJ7GnmM-KxzOGRvER-5CF-wvuDZrIGdMV=s180-rw" group-title="Tamil Local;Entertainment",NTv Trichy
 http://185.105.4.244:1935/live/ntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCFJ9gnr/Screenshot-2021-05-01-12-39-22-918-org-videolan-vlc-1619853068983.png" group-title="Tamil Local;Entertainment",TN 75 Tv
-https://cdn.rjdigilink.in/tn75/livetv/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil Local;Entertainment" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jayamtv.jpg", JAYAM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
