@@ -603,16 +603,16 @@ http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="English;Movies",HBO Signature Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="English;Movies",HBO Signature Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="English;Movies",HBO Signature Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English;Movies",HBO Family Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English;Movies",HBO Family Asia
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English;Movies",HBO Family Asia
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="English;Movies",HBO Hits Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
