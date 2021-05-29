@@ -518,6 +518,9 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/img/services/kids.png" group-title="Tamil International;Kids",IBC KIDS
 https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://discover.film/wp-content/uploads/2020/12/film-logo.png" group-title="English;Movies",Discover Film
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/QLDrZgUny2K79s3HLhonNJvkYtIuce_JAlO2zrDsnil5GbDYo4qRP2achR4mSr3DPIgl" group-title="Tamil Local;Education",Kalvi Cholai
 http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
 
@@ -538,9 +541,6 @@ http://rv.therevenge.co/live/307213221043/307213221043/83956.m3u8?checkedby:iptv
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/National_Geographic_Wild_2018_%28HD%29.svg/revision/latest/scale-to-width-down/185?cb=20190712195623" group-title="English;Infotainment",NAT GEO WILD HD
 http://rv.therevenge.co/live/307213221043/307213221043/83957.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="English;Infotainment",FOX LIFE HD
-http://rv.therevenge.co/live/307213221043/307213221043/83962.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Animal_Planet_HD2.png/revision/latest/scale-to-width-down/240?cb=20200321210959" group-title="Tamil;Infotainment",Animal Planet HD
 http://rv.therevenge.co/live/307213221043/307213221043/83685.m3u8?checkedby:iptvcat.com
@@ -569,20 +569,23 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/192
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png" group-title="Tamil Local;Lifestyle",Rasi Lifestyle
 http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="English;Infotainment",FOX LIFE HD Tamil
+http://rv.therevenge.co/live/307213221043/307213221043/83962.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2fzeezest.jpg&h=570&w=855&q=100&v=20170226&c=1" group-title="Hindi;Lifestyle",Zee Zest HD
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_Bollywood_TV_Channel_Logo.png/220px-MBC_Bollywood_TV_Channel_Logo.png" group-title="Hindi;Entertainment",MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/UTV-ACTION.jpg" group-title="Hindi;Movies",UTV Action
-http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" tvg-url="" group-title="International;Lifestyle",FOX LIFE International
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English;Movies",Sony Pix HD
 http://rv.therevenge.co/live/307213221043/307213221043/83703.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Tamil Local;Movies",Rasi hollywood
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/UTV-ACTION.jpg" group-title="Hindi;Movies",UTV Action
+http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/StarMoviesSelectHDLogo.jpg/220px-StarMoviesSelectHDLogo.jpg" group-title="English;Movies",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
@@ -599,33 +602,6 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/200px-Fox_Action_Movies_logo.svg.png" group-title="English;Movies",Fox Action Movies
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_05/050ac15a8b20a2fc030cbc138a795859.jpeg" tvg-url="" group-title="International;Movies",FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8?token=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="English;Movies",HBO Signature Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English;Movies",HBO Family Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="English;Movies",HBO Hits Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="English;Movies",HBO Hits Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/275px-Cinemax_new.png" group-title="English;Movies",CINEMAX Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Screen_RED_%28logo%29.jpg/150px-Screen_RED_%28logo%29.jpg" group-title="English;Movies",Red by HBO Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" group-title="English;Movies",Paramount Network
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8?t=606ffcb5820d2
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KIX_logo.jpg" tvg-url="" group-title="International;Movies",KIX HD
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/200px-Fox_Family_Movies_logo.svg.png" tvg-url="" group-title="International;Movies",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
 
@@ -638,20 +614,26 @@ http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png" tvg-url="" group-title="International;Movies",HBO signature
 http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" tvg-url="" group-title="International;Lifestyle",FOX LIFE
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_05/050ac15a8b20a2fc030cbc138a795859.jpeg" tvg-url="" group-title="International;Movies",FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8?token=
 
-#EXTINF:-1 tvg-logo="https://discover.film/wp-content/uploads/2020/12/film-logo.png" group-title="English;Movies",Discover Film
-https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" group-title="English;Movies",Paramount Network
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8?t=606ffcb5820d2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KIX_logo.jpg" tvg-url="" group-title="International;Movies",KIX HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Hindi Local;Movies",Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhYqFZGxRzP5WbWv_HlFvzEgMGYtgQ2lMzH6KrgUw=s88-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="India; Hindi Entertainment",Zoom
-http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_Bollywood_TV_Channel_Logo.png/220px-MBC_Bollywood_TV_Channel_Logo.png" group-title="Hindi;Entertainment",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png/revision/latest/scale-to-width-down/250?cb=20171014201547" tvg-url="" group-title="India; Hindi Entertainment",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhYqFZGxRzP5WbWv_HlFvzEgMGYtgQ2lMzH6KrgUw=s88-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="India; Hindi Entertainment",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjP5nREg9AYPqGk6NnyZHoSOIzBmq3IWPxxg&usqp=CAU" tvg-url="" group-title="India; Hindi Music",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
@@ -666,7 +648,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" tvg-url="" group-title="India; English News",Times Now HD
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/11/Mirror_Now-new_9.jpg" tvg-url="" group-title="India; English News",Mirror Now
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
