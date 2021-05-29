@@ -20,8 +20,8 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil;Entertainment",Zee Tamil HD 1
 http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=rk
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil;Entertainment",Zee Tamil HD 2
-http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest?cb=20171015203720" group-title="Tamil;Entertainment",Zee Tamil SD
+http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/45505.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil;Entertainment",Jaya TV HD
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
@@ -389,6 +389,9 @@ http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yyv3R/IMG-20210501-125800.png" group-title="Tamil Local;Music",MN Music
 https://mntv.livebox.co.in/musichls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2K9KHN4/Screenshot-2021-05-29-19-23-44-733-org-videolan-vlc-1622296546125.png" group-title="Tamil Local;Music",Spice TV
+http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLbc03j/Screenshot-2021-05-26-08-06-06-167-com-singamcloud-cloudtamil-1622185986915.png" group-title="Tamil Local;Music",Sachin Music
 http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
 
@@ -412,6 +415,9 @@ http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Jothi_TV.jpg/revision/latest/scale-to-width-down/260?cb=20200818181329" group-title="Tamil;Devotional",Jothi TV
 http://rv.therevenge.co/live/307213221043/307213221043/83909.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4GVLBr6/Screenshot-2021-05-29-19-24-58-141-com-mxtech-videoplayer-ad-1622296600821.png" group-title="Tamil;Devotional",Deepam TV
+https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/z7Qxbw9cMlo0bnbJDqyEMkMHZoeTwOBCMcG-LUxbbq0SxWTKdb9fQRryNGY_ifyTUkQ=s180-rw" group-title="Tamil Local;Devotional",Om Dharisanam
 http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR
