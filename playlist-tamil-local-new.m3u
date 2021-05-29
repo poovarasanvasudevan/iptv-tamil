@@ -152,6 +152,9 @@ http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhe9HMzMrGKdwON4rG4CV6NZsh6NcJI_KJtvmgv=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil International;Entertainment",Sooriyan TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Tamil International;Entertainment",EET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -254,6 +257,9 @@ http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdvhGzz0/IMG-20210501-125713.png" group-title="Tamil Local;Entertainment",SMCV
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fozeBomhI7yJwqpAw83tTdNWSPeTvh9xlB0z3GidYsLir-a4d8Uie3MQ7gWrCDwGYY67=s180-rw" group-title="Tamil;Entertainment",Tamil Vision Tv
+http://stream4.livebox.co.in/tamilvisionhls/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9J5HJuI.png" group-title="Tamil Local;Entertainment",Vani TV HD
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 
@@ -320,11 +326,17 @@ http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sr5-6eljq5LvnXBQt1maEBiDI0Batwfo1PSMJ7GnmM-KxzOGRvER-5CF-wvuDZrIGdMV=s180-rw" group-title="Tamil Local;Entertainment",NTv Trichy
 http://185.105.4.244:1935/live/ntv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SX_2a2oSgSCXuoayomAeZI2EZImFk2i7l8eDYKUC-G-C6It33SYe9bcqcIhpd25lcuc=s180-rw" group-title="Tamil;Entertainment",Tamil TV
+http://streaming.livebox.co.in/newtamiltvhls/live.m3u8
+
 #EXTINF:-1 group-title="Tamil Local;Entertainment" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jayamtv.jpg", JAYAM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1n69xhcbKqKewHgT4hWHuyabnbVqv1-igzVva1ctzAPu4U-YS23Rwh5Kpi5xEuG5tA=s180-rw" group-title="Tamil;Entertainment",Tamil TV Plus
+http://streaming.livebox.co.in/Tamiltvhls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil;Music",Sun Music HD High Quality
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6090349a372d6/6090349a372d6.m3u8
@@ -358,9 +370,6 @@ https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif" group-title="Tamil International;Music",Capital Music
 http://89.187.162.89/Capital_Music/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif" group-title="Tamil International;Music",Capital Music
-http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz3JrNxx/sana.png" group-title="Tamil Local;Music",Sana Plus
 http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
@@ -551,11 +560,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/88a440255269e1782103522844732107d34aa120f27dedf0c2339f9e6e2ae72b.png" group-title="International;Infotainment",Adventure Sports
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" tvg-url="" group-title="International;Knowledge",National Geographic Wild Asia
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" tvg-url="" group-title="International;Movies",Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Docurama_Logo_August_2015.jpg/220px-Docurama_Logo_August_2015.jpg" group-title="International;Infotainment",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
@@ -590,11 +596,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="International;Movies",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/200px-Fox_Action_Movies_logo.svg.png" group-title="English;Movies",Fox Action Movies
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_05/050ac15a8b20a2fc030cbc138a795859.jpeg" tvg-url="" group-title="International;Movies",FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="English;Movies",HBO Signature Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="English;Movies",HBO Family Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
@@ -752,23 +761,5 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mon
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English;Sports",Star sports 2 HD
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
 
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Tamil TV
-http://streaming.livebox.co.in/newtamiltvhls/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Tamil Vision Tv
-http://stream4.livebox.co.in/tamilvisionhls/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Tamil TV
-http://streaming.livebox.co.in/Tamiltvhls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Sooriyan
-http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Willow
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="English;Sports",Willow Sports
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Fox action
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Willow
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
