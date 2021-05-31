@@ -41,12 +41,6 @@ http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhHYAJnlfpmETcagytcrimbj_hMFUH1VGIKiJVuRw=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;Entertainment",Raj TV
 http://212.224.98.196:2200/R-EX/TAMIL_RAJ_TV-in/index.m3u8?token=rk
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Entertainment",Sun TV HD Malaysia
-http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD Malaysia 
-http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/19744.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD UK
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
 
