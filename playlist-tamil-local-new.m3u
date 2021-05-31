@@ -545,6 +545,24 @@ http://rv.therevenge.co:80/live/307201171111/307201171111/83952.m3u8?checkedby:i
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="English;Infotainment",Discovery Tamil HD
 http://rv.therevenge.co:80/live/307201171111/307201171111/83963.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/112293-DTamillogo.jpg?format=webp&w=750&dpr=1.0" group-title="Tamil;Infotainment",D Tamil
+https://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="International;Infotainment",Discovery Science
+https://idvd.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="English;Infotainment",Animal planet
+https://idvd.multitvsolution.com/idvo/aphd_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png" group-title="English;Entertainment",Discovery Turbo
+https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhztlKJf3nOOhGIpetwAg6WleRL5TyRFRq4TnJJlA=s88-c-k-c0x00ffffff-no-rj" group-title="English India;Infotainment",BBC Earth
+http://103.157.237.18:9000/play/524/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="International;Infotainment",TLC HD
+https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/250?cb=20171113181251" group-title="Tamil;Infotainment",NATIONAL GEOGRAPHIC Tamil HD
 http://rv.therevenge.co:80/live/307201171111/307201171111/83956.m3u8?checkedby:iptvcat.com
 
