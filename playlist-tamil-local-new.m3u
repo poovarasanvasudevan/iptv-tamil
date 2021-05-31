@@ -198,7 +198,7 @@ http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunk
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Imayam.jpeg/revision/latest/scale-to-width-down/160?cb=20191226095327" group-title="Tamil;Entertainment",Imayam
-http://rv.therevenge.co:80/live/307201171111/307201171111/83902.m3u8?checkedby:iptvcat.com
+https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
 
 #EXTINF:-1 group-title="Tamil;Entertainment" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg", CAPTAIN TV
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
@@ -512,11 +512,14 @@ http://dorakutty.tk/dorakutty502/Dora.php?id=2190&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20190401004340" group-title="Tamil;Kids",Cartoon Network Tamil
 http://dorakutty.tk/dorakutty502/Dora.php?id=2191&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/DKids2021.png/revision/latest/scale-to-width-down/215?cb=20210413182436" group-title="Tamil;Kids",Discovery Kids
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/DKids2021.png/revision/latest/scale-to-width-down/215?cb=20210413182436" group-title="Tamil;Kids",Discovery Kids Tamil
 http://dorakutty.tk/dorakutty502/Dora.php?id=2192&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Pogo_2017.png/revision/latest/scale-to-width-down/250?cb=20170908084347" group-title="Tamil;Kids",Pogo Tamil
 http://dorakutty.tk/dorakutty502/Dora.php?id=2193&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="Tamil International;Kids",Discovery Kids English
+https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil International;Kids",Akaram Kidz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -557,12 +560,6 @@ https://idvd.multitvsolution.com/idvo/aphd_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png" group-title="English;Entertainment",Discovery Turbo
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhztlKJf3nOOhGIpetwAg6WleRL5TyRFRq4TnJJlA=s88-c-k-c0x00ffffff-no-rj" group-title="English India;Infotainment",BBC Earth
-http://103.157.237.18:9000/play/524/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="International;Infotainment",TLC HD
-https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/250?cb=20171113181251" group-title="Tamil;Infotainment",NATIONAL GEOGRAPHIC Tamil HD
 http://rv.therevenge.co:80/live/307201171111/307201171111/83956.m3u8?checkedby:iptvcat.com
 
@@ -599,6 +596,9 @@ http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="English;Infotainment",FOX LIFE HD Tamil
 http://rv.therevenge.co:80/live/307201171111/307201171111/83962.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="International;Infotainment",TLC HD
+https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2fzeezest.jpg&h=570&w=855&q=100&v=20170226&c=1" group-title="Hindi;Lifestyle",Zee Zest HD
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
 
@@ -606,7 +606,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English;Movies",Sony Pix HD
-http://rv.therevenge.co:80/live/307201171111/307201171111/83703.m3u8?checkedby:iptvcat.com
+http://185.180.15.13:2200/R-EX/HINDI_SONY_PIX_HD-in/mono.m3u8?token=RED_T-PM1WbplV9FtToO4HasAQ==,1615770127.7448616414
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Tamil Local;Movies",Rasi hollywood
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
