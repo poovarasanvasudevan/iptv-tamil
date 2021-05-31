@@ -9,7 +9,13 @@ http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=rk
 http://rv.therevenge.co:80/live/307201171111/307201171111/83951.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay Malaysia HD
+http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay Malaysia HD
 http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/19744.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay Malaysia HD
+http://yi0li7343890.student2u.club/live/3238545630/7067527301/40.m3u8?token=QhpQUUYMEAlAUAtWBQcLBwFSUFFRCAUFUgADVV5SUgYBXQtSB10BVlYQFUZDQUFVBVpsCwUbDAJUTUdGSwRDb1BcGgoXUAcDVhAVRkRcXlVGDQNOQ0lfUkZbRwEKWQUBGxQaVU0QV0EMU1U7VFBFWQdSEVgPTFpaSEMKXWcFVF1YVlwSD0YDEU4QUBdAFwleEVtfTkNbX0IWABFWGlsTAQ8NARIZRlFcF1xNFkkXCRIteRFOQ1xOQgEPFlpXDxMKG1ULRQ1GHhELQWYWVUZHQgFWXgcTGwwUVENJEVUASW9aV1ZeUAdGWg1cSkYKFwISSBVeDQ9QQlkWPhVaXEMLEgsBDgIDRk8ZHQgFWXgcTGwwUVENJEVUASW9aV1ZeUAdGWg1cSkYKFwISSBVeDQ9QQlkWPhVaXEMLEgsBDgIDRk8=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil;Entertainment",Kalaignar TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
