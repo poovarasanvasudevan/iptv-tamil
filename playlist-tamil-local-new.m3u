@@ -781,3 +781,6 @@ https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test
 https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/hdntl=exp=1622612505~acl=%2f*~data=hdntl~hmac=0582fc8860f9aa739fdc93df38f6c64c6fac90ca290458031b1a76786d4eb376/index_12.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test2
+https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1622524499~exp=1622527499~acl=/*~hmac=57503df09c0002c6dac0b9451e28c3df8fce4af48cfd6c9ac7df8e28167b208f
