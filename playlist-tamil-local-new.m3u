@@ -56,9 +56,6 @@ http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil;Movies",Vijay Super
 http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai 1
-https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1622524499~exp=1622527499~acl=/*~hmac=57503df09c0002c6dac0b9451e28c3df8fce4af48cfd6c9ac7df8e28167b208f
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai 2
 http://rv.therevenge.co:80/live/307201253156/307201253156/83914.m3u8?checkedby
 
@@ -783,7 +780,8 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test
-https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/hdntl=exp=1622612505~acl=%2f*~data=hdntl~hmac=0582fc8860f9aa739fdc93df38f6c64c6fac90ca290458031b1a76786d4eb376/index_12.m3u8
+https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1620129293~exp=1620132293~acl=/*~hmac=f53481d3ee33af24eb13c46ef8b0be8a587cba2aa94bd027364da28bccd7cd47
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test2
-https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index_31.m3u8?hdnts=st=1622524499~exp=1622527499~acl=/*~hmac=57503df09c0002c6dac0b9451e28c3df8fce4af48cfd6c9ac7df8e28167b208f
+https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1620129878~exp=1620132878~acl=/*~hmac=844a98bb7b32ce282036d3916e6c1a9b74f50e19edf4a80d20108bbd5eb86c94
+
