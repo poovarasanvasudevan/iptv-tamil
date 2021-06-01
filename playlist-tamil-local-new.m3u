@@ -774,7 +774,13 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Sun Life Test
-https://suntvlive.s.llnwi.net/SunLife/SunLife.isml/.m3u8?p=51&se=1621391564&e=1621420364&h=734583ad9b4ca440bb4d5ff56e498bf5
+http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/197941.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Adithya Test
-https://suntvlive.s.llnwi.net/AdithyaTV/AdithyaTV.isml/.m3u8?p=55&se=1621391657&e=1621420457&h=b606752a4bc11fdd1a1e25b881f02b2c
+http://rv.therevenge.co:80/live/307201253156/307201253156/83968.m3u8?checkedby
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Sun News Test
+http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/269692.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",KTV Test
+http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/36442.m3u8
