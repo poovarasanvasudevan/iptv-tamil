@@ -113,8 +113,11 @@ http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil;Entertainment",Sun Life
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil;Entertainment",Sun Life 1
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6075e5c94564a/6075e5c94564a.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil;Entertainment",Sun Life 2
+http://rv.therevenge.co:80/live/307201253156/307201253156/83950.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil;Entertainment",Kalaignar Murasu
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
@@ -470,8 +473,11 @@ https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniVcmrd5czUfkeABDtAHhDUOh54nNY2gCi_76drzg=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;News",MaalaiMurasu TV
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News 1
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608980b35450f/608980b35450f.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News 2
+http://rv.therevenge.co:80/live/307201253156/307201253156/83948.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://imga.androidappsapk.co/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g=s300" group-title="Tamil;News",Kalaignar Seithigal
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
@@ -772,15 +778,3 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="English;Sports",Willow Sports
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Sun Life Test
-http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/197941.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Adithya Test
-http://rv.therevenge.co:80/live/307201253156/307201253156/83968.m3u8?checkedby
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Sun News Test
-http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/269692.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",KTV Test
-http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/36442.m3u8
