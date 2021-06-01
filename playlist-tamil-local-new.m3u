@@ -778,3 +778,6 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="English;Sports",Willow Sports
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test
+https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/hdntl=exp=1622612505~acl=%2f*~data=hdntl~hmac=0582fc8860f9aa739fdc93df38f6c64c6fac90ca290458031b1a76786d4eb376/index_12.m3u8
