@@ -587,7 +587,7 @@ https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="International;Infotainment",NASA Media TV 
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8 
 
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="International;Infotainment",NASA TV 
+#EXTINF:-1 tvg-logo="http://clipart-library.com/images/8TAb9LgGc.jpg" group-title="International;Infotainment",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/88a440255269e1782103522844732107d34aa120f27dedf0c2339f9e6e2ae72b.png" group-title="International;Infotainment",Adventure Sports
@@ -645,7 +645,7 @@ http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mbc-2.png/220px-Mbc-2.png" group-title="English;Movies",MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/200px-Fox_Family_Movies_logo.svg.png" tvg-url="" group-title="International;Movies",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
@@ -791,19 +791,19 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="English;Sports",Willow Sports
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Radio",Mirchi FM
+#EXTINF:-1 tvg-logo="https://static.radiomirchi.com/common-images/RadioMirchi-logo.png" group-title="Tamil;Radio",Mirchi FM
 https://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Radio",Hello FM
+#EXTINF:-1 tvg-logo="http://www.hello.fm/images/logo2.png" group-title="Tamil;Radio",Hello FM
 https://livessl.rcast.net/stream/66462.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Radio",Panbalai Tamil FM
+#EXTINF:-1 tvg-logo="https://scontent.fmaa2-2.fna.fbcdn.net/v/t1.6435-9/85242851_2563286400596885_46584886034694144_n.png?_nc_cat=111&ccb=1-3&_nc_sid=174925&_nc_ohc=YsRIdQIOyo8AX87TKEM&_nc_ht=scontent.fmaa2-2.fna&oh=86e2477fdd4af491a214a6f69b6177fb&oe=60DAFA17" group-title="Tamil;Radio",Panbalai Tamil FM
 http://212.83.138.48:8251/stream.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Radio",Covai Tamil FM
+#EXTINF:-1 tvg-logo="https://scontent.fmaa2-2.fna.fbcdn.net/v/t1.6435-9/117645576_2654684681444779_7441330904512328234_n.png?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=m2LixxMCNOMAX-hyYUr&_nc_ht=scontent.fmaa2-2.fna&oh=bb41d99892fb3de8a90b64856eec2073&oe=60DE4FF9" group-title="Tamil;Radio",Covai Tamil FM
 http://node-32.zeno.fm/kzd2e3tx24zuv
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil;Radio",Kodai FM
+#EXTINF:-1 tvg-logo="https://scontent.fmaa2-1.fna.fbcdn.net/v/t1.18169-9/10154056_677316285651558_129698128_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=ccgVIHQamPYAX9UzrTc&_nc_ht=scontent.fmaa2-1.fna&oh=0e2acc50d32e61e8424bd4de89f7cb44&oe=60DB3C30" group-title="Tamil;Radio",Kodai FM
 http://node-30.zeno.fm/urvp16bqnd0uv
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 1
