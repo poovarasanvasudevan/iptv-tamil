@@ -266,6 +266,9 @@ http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fozeBomhI7yJwqpAw83tTdNWSPeTvh9xlB0z3GidYsLir-a4d8Uie3MQ7gWrCDwGYY67=s180-rw" group-title="Tamil;Entertainment",Tamil Vision Tv
 http://stream4.livebox.co.in/tamilvisionhls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/thoothukudi/x7/9999px461.x461.171230025350.z5x7/catalogue/abinaya-tv-eral-thoothukudi-tv-dealers-glypt4le1n-250.jpg" group-title="Tamil Local;Entertainment",Abinaya HD
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9J5HJuI.png" group-title="Tamil Local;Entertainment",Vani TV HD
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 
