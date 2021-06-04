@@ -48,7 +48,7 @@ http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
 http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil; Movies",K TV HD High Quality
-http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60734d4da621b/60734d4da621b.m3u8
+http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil; Movies",K TV HD Low Quality
 http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
@@ -790,6 +790,9 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mon
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English;Sports",Star sports 2 HD
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English;Sports",Star Sports Tamil
+http://212.224.98.204:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=RK
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="English;Sports",Willow Sports
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
