@@ -819,7 +819,7 @@ http://node-30.zeno.fm/urvp16bqnd0uv
 http://rv.therevenge.co:80/live/307251602400/307251602400/83951.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 2
-https://catchup.yuppcdn.net/amazonv2/20/preview/athavanmusichd/master/master.m3u8
+https://yupptvmslweb.akamaized.net/hls/live/2008012/athavanmusichd/athavanmusichd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
-https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1622885195~exp=1622888195~acl=/*~hmac=6d5b11b02365d53ccbe87c0e6da8543ca944a4baab9ea47e7c6d03cb2c19a0d4
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test3
+https://yupptvmslweb.akamaized.net/hls/live/2008012/athavanmusichd/athavanmusichd/playlist.m3u8?hdnts=st=1622893327~exp=1622896927~acl=!*/2008012/athavanmusichd/*!/payload/yuppTVCom_5_-1_35aa46901bd6438d_IN_49.37.219.167/*~hmac=a6633f5306135d6815065a4f2f1f880d70b8e0735874b40dae6fb7d900167dec
