@@ -791,8 +791,11 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mon
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English;Sports",Star sports 2 HD
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg/revision/latest/scale-to-width-down/200?cb=20191214224150" group-title="English;Sports",Star Sports Tamil
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg/revision/latest/scale-to-width-down/200?cb=20191214224150" group-title="Tamil;Sports",Star Sports Tamil
 http://212.224.98.204:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=RK
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony_Ten_4.png/revision/latest/scale-to-width-down/220?cb=20210601055433" group-title="Tamil;Sports",Sony Ten 4
+https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="English;Sports",Willow Sports
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
@@ -816,10 +819,7 @@ http://node-30.zeno.fm/urvp16bqnd0uv
 http://rv.therevenge.co:80/live/307251602400/307251602400/83951.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 2
-https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+https://www.yupptv.com/channels/athavan-music-hd/live/embed
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
-https://sony247channels.akamaized.net/hls/live/2020437/ten4sd/master.m3u8?hdnea=st=1622869066~exp=1622869366~acl=*~id=5d496c4b-35f8-45ad-a601-342cdf85fe72~hmac=09ee568fa57b7ef81f0063cf9e01756262738a5d5fd3a315c7340ba144c7f5a8&originpath=/linear/hls/pb/event/hInaEKUJSziZAGv9boOdjg/stream/c16cca1c-2acd-4bfb-a2e0-df9d9c93713a:SIN2/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 4
 https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1622885195~exp=1622888195~acl=/*~hmac=6d5b11b02365d53ccbe87c0e6da8543ca944a4baab9ea47e7c6d03cb2c19a0d4
