@@ -1,11 +1,8 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Entertainment",Sun TV HD High Quality
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Entertainment",Sun TV HD 1
 http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=rk
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Kids",Sun TV HD Low Quality
-http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Kids",Sun TV HD Low Quality
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Entertainment",Sun TV HD 2
 http://rv.therevenge.co:80/live/692653432434504/692653432434504/83947.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD 1
@@ -49,6 +46,12 @@ http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD UK
 http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Entertainment",Sun TV SD Malaysia
+http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest?cb=20171015203720" group-title="Tamil;Entertainment",Zee Tamil SD Malaysia
+http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil; Movies",K TV HD High Quality
 http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=rk
@@ -822,7 +825,7 @@ http://node-30.zeno.fm/urvp16bqnd0uv
 http://rv.therevenge.co:80/live/307251602400/307251602400/83951.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 2
-https://yupptvmslweb.akamaized.net/hls/live/2008012/athavanmusichd/athavanmusichd/playlist.m3u8
+http://pal.ukodtv.xyz/live/3238545630/7067527301/38.m3u8?token=QhpQUUYMEAlACw1TAQcABgBUVlAAAFIDUVcBCl1UBgIPDw8HBFFQAQQQFUZDQUFVBVpsCwUbDAVcTUdGSwRDb1BcGgoXUAcDVhAVRkRcXlVGDQNOQ0lfUkZbC0ZUDR0SXEBMVUcKU189VlwSWVZWEl5ZRg4NFRRZCj4BVlUAX1QbAhoBF0gQWhFCG15eQF9cSBVRCxVLV0IBQ19dTQ1dHBtbV0VbEEBKQAgbLX4XHxIBT0cHD0pfWQpDXxFVUkQIGxQaWUY7QFYRRksBUVhWQkYNEVJDFRRbBRk6UFcPX1VaTFFfWxcQCUADG0gSWFxeDUNcED5JX1JGWwtGVA1M
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test3
-https://yupptvmslweb.akamaized.net/hls/live/2008012/athavanmusichd/athavanmusichd/playlist.m3u8?hdnts=st=1622893327~exp=1622896927~acl=!*/2008012/athavanmusichd/*!/payload/yuppTVCom_5_-1_35aa46901bd6438d_IN_49.37.219.167/*~hmac=a6633f5306135d6815065a4f2f1f880d70b8e0735874b40dae6fb7d900167dec
+http://yi0li7343890.student2u.club/live/3238545630/7067527301/40.m3u8?token=QhpQUUYMEAlAUAtWBQcLBwFSUFFRCAUFUgADVV5SUgYBXQtSB10BVlYQFUZDQUFVBVpsCwUbDAJUTUdGSwRDb1BcGgoXUAcDVhAVRkRcXlVGDQNOQ0lfUkZbRwEKWQUBGxQaVU0QV0EMU1U7VFBFWQdSEVgPTFpaSEMKXWcFVF1YVlwSD0YDEU4QUBdAFwleEVtfTkNbX0IWABFWGlsTAQ8NARIZRlFcF1xNFkkXCRIteRFOQ1xOQgEPFlpXDxMKG1ULRQ1GHhELQWYWVUZHQgFWXgcTGwwUVENJEVUASW9aV1ZeUAdGWg1cSkYKFwISSBVeDQ9QQlkWPhVaXEMLEgsBDgIDRk8ZHQgFWXgcTGwwUVENJEVUASW9aV1ZeUAdGWg1cSkYKFwISSBVeDQ9QQlkWPhVaXEMLEgsBDgIDRk8=
