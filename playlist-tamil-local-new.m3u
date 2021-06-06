@@ -30,7 +30,7 @@ http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil;Entertainment",Colors Tamil HD
-http://rv.therevenge.co:80/live/692653432434504/692653432434504/83965.m3u8?checkedby
+http://212.224.98.196:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201807/colors_tamil.png.jpg" group-title="Tamil;Entertainment",Colors Tamil SD
 http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
