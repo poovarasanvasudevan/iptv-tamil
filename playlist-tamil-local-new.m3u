@@ -98,6 +98,9 @@ http://142.44.213.115:8888/gta_tamil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNBSYQW1/Screenshot-2021-05-13-18-42-23-105-org-videolan-vlc-1620911596261.png" group-title="Tamil Local;Entertainment",Apple Digital
 http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjBc7Gx137dBsvIVHvEfeervS75TRghzrsT50ltkg=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil Local;Movies",Amma Channel
+http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn7h8SpJ/Screenshot-2021-04-28-14-34-52-602-org-videolan-vlc-1619601752943.png" group-title="Tamil Local;Movies",Kalai Cinema
 http://singamcloud.in:1935/kalaicinema/kalaicinema/playlist.m3u8
 
@@ -404,6 +407,9 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85D7qZLW/Screenshot-2021-04-30-13-40-16-659-com-android-chrome-1619770271911.png" group-title="Tamil;Music",Max TV
 http://139.99.41.37:1935/dream/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbyvtssn/Screenshot-2021-04-28-14-40-22-629-org-videolan-vlc-1619602162814.png" group-title="Tamil;Music",ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2K9KHN4/Screenshot-2021-05-29-19-23-44-733-org-videolan-vlc-1622296546125.png" group-title="Tamil Local;Music",Spice TV
 http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
 
@@ -412,9 +418,6 @@ http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cC2P039/Screenshot-2021-04-28-14-39-13-473-org-videolan-vlc-1619602042079.png" group-title="Tamil Local;Music",TDCTO (Apple Music)
 http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w792788465.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbyvtssn/Screenshot-2021-04-28-14-40-22-629-org-videolan-vlc-1619602162814.png" group-title="Tamil;Music",ACN Music
-http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Tunes_6_Music.jpeg/revision/latest/scale-to-width-down/150?cb=20191226090849" group-title="Tamil;Music",Tunes 6
 https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in_480p/index.m3u8
