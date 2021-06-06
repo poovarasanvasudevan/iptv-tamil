@@ -6,10 +6,10 @@ http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=rk
 http://rv.therevenge.co:80/live/692653432434504/692653432434504/83947.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD 1
-http://rv.therevenge.co:80/live/692653432434504/692653432434504/83951.m3u8?checkedby
+http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD 2
-http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
+http://rv.therevenge.co:80/live/692653432434504/692653432434504/83951.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil;Entertainment",Kalaignar TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -100,6 +100,9 @@ http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn7h8SpJ/Screenshot-2021-04-28-14-34-52-602-org-videolan-vlc-1619601752943.png" group-title="Tamil Local;Movies",Kalai Cinema
 http://singamcloud.in:1935/kalaicinema/kalaicinema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gboombaa.com/wp-content/uploads/2020/07/Channel_Logo_ACN-CINEMA.png" group-title="Tamil Local;Movies",ACN CINEMA
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76m22KPS/rasi-classic.png" group-title="Tamil Local;Movies",Rasi Classic
 #KODIPROP:inputstreamaddon=inputstream.adaptive
