@@ -137,6 +137,9 @@ http://rv.therevenge.co:80/live/307251602400/307251602400/83950.m3u8?checkedby
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil;Entertainment",Kalaignar Murasu
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Tamil_Entertainment_Television.png" group-title="Tamil International;Entertainment",Tet HD
+https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Vasantham_logo.jpg" group-title="Tamil International;Entertainment",Vasantham TV Singapore
 http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
 
@@ -843,10 +846,4 @@ http://rv.therevenge.co:80/live/307251602400/307251602400/83951.m3u8?checkedby
 http://nextgeninfotech.ddns.net:8080/stv/stv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
-https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/tet_2500/chunklist.m3u8?hdntl=exp=1623136006~acl=*/tet/*~data=hdntl~hmac=446b8bc93d291efa53016bcff2b06c144a69a27f994e81246a992ff8cd2e7eba
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 4
-https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 5
 http://media.7starcloud.com:1935/live/nivitvlive/playlist.m3u8
