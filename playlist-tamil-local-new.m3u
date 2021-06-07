@@ -113,7 +113,7 @@ http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/11/items/20210521-125946/20210521_125946.jpg" group-title="Tamil Local;Movies",Pakka TV
 https://rtmp.e2is.in/hls/pakkatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/11/items/20210521-125946/20210521_125946.jpg" group-title="Tamil Local;Movies",Garuda Movies
+#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/gold-eagle-logo-design-template-600w-675812320.jpg" group-title="Tamil Local;Movies",Garuda Movies
 https://garuda-cdnserver1.tk/GarudaMovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76m22KPS/rasi-classic.png" group-title="Tamil Local;Movies",Rasi Classic
