@@ -842,5 +842,11 @@ http://rv.therevenge.co:80/live/307251602400/307251602400/83951.m3u8?checkedby
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 2
 http://nextgeninfotech.ddns.net:8080/stv/stv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test3
-http://yi0li7343890.student2u.club/live/3238545630/7067527301/40.m3u8?token=QhpQUUYMEAlAUAtWBQcLBwFSUFFRCAUFUgADVV5SUgYBXQtSB10BVlYQFUZDQUFVBVpsCwUbDAJUTUdGSwRDb1BcGgoXUAcDVhAVRkRcXlVGDQNOQ0lfUkZbRwEKWQUBGxQaVU0QV0EMU1U7VFBFWQdSEVgPTFpaSEMKXWcFVF1YVlwSD0YDEU4QUBdAFwleEVtfTkNbX0IWABFWGlsTAQ8NARIZRlFcF1xNFkkXCRIteRFOQ1xOQgEPFlpXDxMKG1ULRQ1GHhELQWYWVUZHQgFWXgcTGwwUVENJEVUASW9aV1ZeUAdGWg1cSkYKFwISSBVeDQ9QQlkWPhVaXEMLEgsBDgIDRk8ZHQgFWXgcTGwwUVENJEVUASW9aV1ZeUAdGWg1cSkYKFwISSBVeDQ9QQlkWPhVaXEMLEgsBDgIDRk8=
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
+https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/tet_2500/chunklist.m3u8?hdntl=exp=1623136006~acl=*/tet/*~data=hdntl~hmac=446b8bc93d291efa53016bcff2b06c144a69a27f994e81246a992ff8cd2e7eba
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 4
+https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 5
+http://media.7starcloud.com:1935/live/nivitvlive/playlist.m3u8
