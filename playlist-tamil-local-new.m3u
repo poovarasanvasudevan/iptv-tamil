@@ -596,7 +596,6 @@ http://rv.therevenge.co:80/live/307251602400/307251602400/83956.m3u8?checkedby
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/National_Geographic_Wild_2018_%28HD%29.svg/revision/latest/scale-to-width-down/185?cb=20190712195623" group-title="English;Infotainment",NAT GEO WILD Tamil HD
 http://rv.therevenge.co:80/live/307251602400/307251602400/83957.m3u8?checkedby
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Hindi;Infotainment",History TV18 HD Hindi
 http://115.42.65.142:4000/play/a05k/index.m3u8
 
@@ -693,7 +692,7 @@ http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png" tvg-url="" group-title="International;Movies",HBO signature
 http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_05/050ac15a8b20a2fc030cbc138a795859.jpeg" tvg-url="" group-title="International;Movies",FOX HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/200?cb=20191121082502" tvg-url="" group-title="International;Movies",FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" group-title="English;Movies",Paramount Network
@@ -757,13 +756,13 @@ http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=rk
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png/revision/latest/scale-to-width-down/200?cb=20210518175454" group-title="Malayalam;Entertainment",Zee Keralam HD
-http://rv.therevenge.co:80/live/307251602400/307251602400/83877.m3u8?checkedby
+http://212.224.98.196:2200/R-EX/MALAYALAM_ZEE_KERALAM_HD-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg/revision/latest/scale-to-width-down/230?cb=20180723062617" group-title="Malayalam;Entertainment",Asianet Plus
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Malayalam;Entertainment",Asianet Middle East
-http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/267543.m3u8
+http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MIDDLE-EAST-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Surya_movies.jpg/revision/latest/scale-to-width-down/220?cb=20180318054520" group-title="Malayalam;Movies",Surya Movies
 http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=rk
@@ -772,7 +771,7 @@ http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=rk
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/SRM.jpg/revision/latest/scale-to-width-down/250?cb=20180318065654" group-title="Malayalam;Music",Surya Music
-http://rv.therevenge.co:80/live/307251602400/307251602400/83879.m3u8?checkedby
+http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png" group-title="Malayalam Local;Movies",Rasi Malayalam
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
@@ -870,5 +869,5 @@ http://rv.therevenge.co:80/live/307251602400/307251602400/83951.m3u8?checkedby
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 2
 http://nextgeninfotech.ddns.net:8080/tv/stv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
-http://media.7starcloud.com:1935/live/nvitvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test3
+http://212.224.98.196:2200/R-EX/TAMIL_SONY_PIX_HD-in/index.m3u8?token=RK
