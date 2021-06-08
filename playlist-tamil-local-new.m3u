@@ -719,6 +719,12 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434" tvg-url="" group-title="India; Hindi Music",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
+#EXTINF:-1 tvg-logo="htts://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434" tvg-url="" group-title="India; Hindi Music",MTV HD
+http://212.224.98.196:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=RK
+
+#EXTINF:-1 tvg-logo="htts://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434" tvg-url="" group-title="India; Hindi Music",MTV BEATS HD
+http://212.224.98.196:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RK
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" tvg-url="" group-title="India; English News",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-b.m3u8?sd=10&rebase=on
 
@@ -816,23 +822,15 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mon
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180806112709" group-title="English;Sports",Star sports select 1 HD
-
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="English;Sports", Star sports select 2 HD
-
 http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg/revision/latest/scale-to-width-down/185?cb=20190322143710" group-title="English;Sports", Sony Ten 1 HD
-
-http://103.223.12.154:8000/play/a002/index.m3u8 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg/revision/latest/scale-to-width-down/200?cb=20171109134908" group-title="English;Sports", Sony six
-
 http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png/revision/latest/scale-to-width-down/300?cb=20200319064538" group-title="English;Sports", Eurosports India
-
 http://115.42.65.142:4000/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg/revision/latest/scale-to-width-down/200?cb=20191214224150" group-title="Tamil;Sports",Star Sports Tamil
@@ -867,3 +865,24 @@ http://nextgeninfotech.ddns.net:8080/tv/stv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
 http://media.7starcloud.com:1935/live/nvitvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",History
+http://115.42.65.142:4000/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Hungama
+http://212.224.98.209:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RK
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Nick jr
+http://115.42.65.142:4000/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Disney Jr 
+http://115.42.65.142:4000/play/a04o/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Disney channel
+http://115.42.65.142:4000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",nick HD+
+http://115.42.65.142:4000/play/a06h/index.m3u8
