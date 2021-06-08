@@ -815,11 +815,31 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mon
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English;Sports",Star sports 2 HD
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180806112709" group-title="English;Sports",Star sports select 1 HD
+
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="English;Sports", Star sports select 2 HD
+
+http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg/revision/latest/scale-to-width-down/185?cb=20190322143710" group-title="English;Sports", Sony Ten 1 HD
+
+http://103.223.12.154:8000/play/a002/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg/revision/latest/scale-to-width-down/200?cb=20171109134908" group-title="English;Sports", Sony six
+
+http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png/revision/latest/scale-to-width-down/300?cb=20200319064538" group-title="English;Sports", Eurosports India
+
+http://115.42.65.142:4000/play/a06f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg/revision/latest/scale-to-width-down/200?cb=20191214224150" group-title="Tamil;Sports",Star Sports Tamil
 http://212.224.98.204:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=RK
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony_Ten_4.png/revision/latest/scale-to-width-down/220?cb=20210601055433" group-title="Tamil;Sports",Sony Ten 4
-https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony_Ten_4.png/revision/latest/scale-to-width-down/220?cb=20210601055433" group-title="Tamil;Sports",Sony Ten 4 Tamil
+https://dai.google.com/linear/hls/pb/event/hInaEKUJSziZAGv9boOdjg/stream/9483f598-6112-4b86-969f-a79020e9b518:SIN/variant/9d6026b9d3b6b085df13eaccc9d77b8f/bandwidth/4677200.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="English;Sports",Willow Sports
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
@@ -843,13 +863,7 @@ http://node-30.zeno.fm/urvp16bqnd0uv
 http://rv.therevenge.co:80/live/307251602400/307251602400/83951.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 2
-http://nextgeninfotech.ddns.net:8080/stv/stv.m3u8
+http://nextgeninfotech.ddns.net:8080/tv/stv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
-http://media.7starcloud.com:1935/live/nivitvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 4
-https://dai.google.com/linear/hls/pb/event/hInaEKUJSziZAGv9boOdjg/stream/9483f598-6112-4b86-969f-a79020e9b518:SIN/variant/be4c8cd579b2286be7c0861ffb76fcee/bandwidth/4677200.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 5
-https://dai.google.com/linear/hls/pb/event/hInaEKUJSziZAGv9boOdjg/stream/9483f598-6112-4b86-969f-a79020e9b518:SIN/variant/9d6026b9d3b6b085df13eaccc9d77b8f/bandwidth/4677200.m3u8
+http://media.7starcloud.com:1935/live/nvitvlive/playlist.m3u8
