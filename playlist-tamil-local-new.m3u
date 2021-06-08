@@ -847,3 +847,9 @@ http://nextgeninfotech.ddns.net:8080/stv/stv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
 http://media.7starcloud.com:1935/live/nivitvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 4
+https://dai.google.com/linear/hls/pb/event/hInaEKUJSziZAGv9boOdjg/stream/9483f598-6112-4b86-969f-a79020e9b518:SIN/variant/be4c8cd579b2286be7c0861ffb76fcee/bandwidth/4677200.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 5
+https://dai.google.com/linear/hls/pb/event/hInaEKUJSziZAGv9boOdjg/stream/9483f598-6112-4b86-969f-a79020e9b518:SIN/variant/9d6026b9d3b6b085df13eaccc9d77b8f/bandwidth/4677200.m3u8
