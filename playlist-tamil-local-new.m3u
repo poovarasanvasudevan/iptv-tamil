@@ -830,9 +830,6 @@ http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mon
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="English;Sports",Star Sports 2 HD
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/220?cb=20191214234112" group-title="English;Sports",Star Sports 2 HD
-http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1/mono.m3u8?token=rk
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180806112709" group-title="English;Sports",Star Sports Select 1 HD
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
 
@@ -845,10 +842,7 @@ http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="English;Sports", Sony Ten 2 HD
 http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=rk
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="English;Sports", Sony Ten 3 HD
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=rk
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg/revision/latest/scale-to-width-down/200?cb=20171109134908" group-title="English;Sports", Sony six
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg/revision/latest/scale-to-width-down/200?cb=20171109134908" group-title="English;Sports", Sony Six
 http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png/revision/latest/scale-to-width-down/300?cb=20200319064538" group-title="English;Sports", Eurosports
