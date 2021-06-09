@@ -150,7 +150,7 @@ http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/CapitalTVlogo.gif" group-title="Tamil International;Entertainment",Capital TV
-http://89.187.162.89/Capital_TV-LIVE/index.m3u8
+http://89.187.162.89:80/Capital_TV-LIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-black.png" group-title="Tamil International;Entertainment",IBC Tamil
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
@@ -390,7 +390,7 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif" group-title="Tamil International;Music",Capital Music
-http://89.187.162.89/Capital_Music/index.m3u8
+http://89.187.162.89:80/Capital_Music/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0qv7b92/Screenshot-2021-04-28-14-38-57-046-org-videolan-vlc-1619601997394.png" group-title="Tamil Local;Music",Isai Saral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
@@ -468,7 +468,7 @@ http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Tharisanamlogo.gif" group-title="Tamil International;Devotional",Capital Dharisanam
-http://89.187.162.89/Capital_Tharisanam/index.m3u8
+http://89.187.162.89:80/Capital_Tharisanam/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png" group-title="Tamil;News",Polimer News
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
@@ -519,7 +519,7 @@ http://rv.therevenge.co:80/live/691311505415046/691311505415046/83900.m3u8?check
 http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/bv05892.gif" group-title="Tamil International;News",Capital News
-http://89.187.162.89/Capital_NEWS/index.m3u8
+http://89.187.162.89:80/Capital_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest/scale-to-width-down/250?cb=20190122082451" group-title="Tamil;Kids",Chutti TV
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6091a53b36cc8/6091a53b36cc8.m3u8
