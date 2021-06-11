@@ -9,7 +9,7 @@ http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=rk
 http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD 2
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83951.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83951.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil;Entertainment",Kalaignar TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -57,7 +57,7 @@ http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai 1
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83914.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83914.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai 2
 http://moviefiveapp.xyz/zee5/main.php?c=0-9-224&e.m3u8
@@ -69,7 +69,7 @@ http://212.224.98.196:2200/R-EX/TAMIL_J_MOVIES-in/index.m3u8?token=rk
 http://212.224.98.196:2200/R-EX/TAMIL_RAJ_DIGITAL_PLUS-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/cms-assets/services/banners/2020-06/tata-sky-tamil-cinema-logo_0.png" group-title="Tamil;Movies",Tata Sky Tamil Cinema
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83946.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83946.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://secureservercdn.net/192.169.221.188/108.2ed.myftpupload.com/wp-content/uploads/2020/06/montamilwhite_599x98v1.png" group-title="Tamil International; Entertainment",Mon Tamil TV
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
@@ -429,7 +429,7 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3
 http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Jothi_TV.jpg/revision/latest/scale-to-width-down/260?cb=20200818181329" group-title="Tamil;Devotional",Jothi TV
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83909.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83909.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvCd3WRd/Screenshot-2021-04-28-14-40-57-143-org-videolan-vlc-1619602210463.png" group-title="Tamil International;Devotional",OM Namah Sivaya
 http://51.79.158.179:1935/omtvjak/livetv/playlist.m3u8
@@ -486,7 +486,7 @@ https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608980b35450f/608980b35450f.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News 2
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83948.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83948.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://imga.androidappsapk.co/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g=s300" group-title="Tamil;News",Kalaignar Seithigal
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
@@ -501,13 +501,13 @@ http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
 https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98122.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Raj_News_Tamil.jpeg/revision/latest/scale-to-width-down/250?cb=20191226054121" group-title="Tamil;News",Raj News
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83919.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83919.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Jaya_Plus.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113458" group-title="Tamil;News",Jaya Plus
 http://212.224.98.196:2200/R-EX/TAMIL_JAYA_PLUS-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Win_TV.jpeg/revision/latest/scale-to-width-down/230?cb=20191226082027" group-title="Tamil;News",Win TV
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83900.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83900.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qfLu4zMurdctE2tiJ-iF_SBnMzoABvfQhYgxVMNUARHtT0MkuERVq5pZYC5NDglTvqdG=s180-rw" group-title="Tamil;News",1 Yes News
 http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
@@ -519,7 +519,7 @@ http://89.187.162.89:80/Capital_NEWS/index.m3u8
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6091a53b36cc8/6091a53b36cc8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Sonyyay.png/revision/latest/scale-to-width-down/150?cb=20190818013417" group-title="Tamil;Kids",Sony Yay Tamil
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83924.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83924.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Tamil;Kids",Nick Tamil
 https://garuda-cdnserver1.tk/SonyPIX/index.m3u8
@@ -573,22 +573,22 @@ http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
 https://garuda-cdnserver1.tk/HistoryTamil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil;Infotainment",History TV18 HD Tamil 2
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83961.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83961.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil;Infotainment",Sony BBC Earth HD Tamil
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83952.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83952.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="English;Infotainment",Discovery Tamil HD
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83963.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83963.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/112293-DTamillogo.jpg?format=webp&w=750&dpr=1.0" group-title="Tamil;Infotainment",D Tamil
 https://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/250?cb=20171113181251" group-title="Tamil;Infotainment",NATIONAL Geographic Tamil HD
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83956.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83956.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/National_Geographic_Wild_2018_%28HD%29.svg/revision/latest/scale-to-width-down/185?cb=20190712195623" group-title="English;Infotainment",NAT Geo Wild Tamil HD
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83957.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83957.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Hindi;Infotainment",History TV18 HD Hindi
 http://115.42.65.142:4000/play/a05k/index.m3u8
@@ -603,7 +603,7 @@ https://idvd.multitvsolution.com/idvo/aphd_540p/index.m3u8
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Animal_Planet_HD2.png/revision/latest/scale-to-width-down/240?cb=20200321210959" group-title="Tamil;Infotainment",Animal Planet HD
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83685.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83685.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="International;Infotainment",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -633,7 +633,7 @@ http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 https://garuda-cdnserver1.tk/Travelxptamil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="English;Infotainment",FOX Life HD Tamil
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83962.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83962.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="International;Infotainment",TLC HD
 https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
@@ -813,10 +813,10 @@ http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Kochu_TV.jpg/revision/latest/scale-to-width-down/200?cb=20190122083202" group-title="Malayalam;Kids",Kochu TV
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83890.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83890.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Asianet_News_2018.jpg/revision/latest/scale-to-width-down/220?cb=20180603174037" group-title="Malayalam;News",Asianet News HD
-http://rv.therevenge.co:80/live/691311505415046/691311505415046/83881.m3u8?checkedby
+http://rv.therevenge.co:80/live/477843251321061/477843251321061/83881.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="English;Sports",Star Sports 1 HD
 http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=rk
