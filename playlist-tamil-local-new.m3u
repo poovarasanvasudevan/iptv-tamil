@@ -21,7 +21,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png/revision/latest?cb=20171015203720" group-title="Tamil;Entertainment",Zee Tamil SD
-http://moviefiveapp.xyz/zee5/main.php?c=0-9-zeetamil&index_10.m3u8
+http://moviefiveapp.xyz/zee5/main.php?c=0-9-zeetamil&e.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil;Entertainment",Jaya TV HD
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
@@ -57,7 +57,7 @@ http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai 1
-http://moviefiveapp.xyz/zee5/main.php?c=0-9-224&index_6.m3u8
+http://moviefiveapp.xyz/zee5/main.php?c=0-9-224&e.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai 2
 http://rv.therevenge.co:80/live/477817175105424/477817175105424/83914.m3u8?checkedby
