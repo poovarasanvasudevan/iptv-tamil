@@ -567,7 +567,7 @@ https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/1.0/img/services/kids.png" group-title="Tamil International;Kids",IBC Kids
-https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8
+https://tx1.ibctamil.tv/CDN_IBC_Kids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/200?cb=20111015213235" group-title="Hindi;Kids",Hungama
 http://212.224.98.209:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RK
@@ -655,6 +655,9 @@ http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Travel_XP_Tamil.jpeg/revision/latest/scale-to-width-down/200?cb=20201008180458" group-title="English;Infotainment",Travel XP Tamil
 https://garuda-cdnserver1.tk/Travelxptamil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png/revision/latest/scale-to-width-down/220?cb=20190307145616" group-title="English;Infotainment",Food Food
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="English;Infotainment",FOX Life HD Tamil
 http://rv.therevenge.co:80/live/477817175105424/477817175105424/83962.m3u8?checkedby
@@ -909,4 +912,13 @@ http://rv.therevenge.co:80/live/307251602400/307251602400/83951.m3u8?checkedby
 https://dai.google.com/linear/hls/event/9o6DQfRmS2evzn5gC2Xdzg/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 3
-http://edge2-moblive.yuppcdn.net/transwl/ngrp:thamiltharai.stream_all/chunklist_w709340601_b464000.m3u8?nimblesessionid=1673840&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMTMvMjAyMCAxMDowMzo0OCBBTSZoYXNoX3ZhbHVlPStmSnpSalNzZ1J3cDNYb2E4MFRsMlE9PSZ2YWxpZG1pbnV0ZXM9MzE1MzYwMDA
+http://45.87.29.50:25461/live/307201171111/307201171111/83952.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 4
+http://istreamtv.fun/vdn/thirai/m3u8.php?token=WVZaT01HTnRWbWhpVmxKWFdERkNjMWxZYkhOaFdFNHdXREZTZG1FeVZuVlBhVUpWVkRCMFJsUnFiMmRPYlVwcFdrZE5NVTF0U1hkWlZHc3lXVlJLYkU1SFRteE5la2wzVFhwU2FFNXRTbWhPYWxsNldtMVZlRTU2U1hwTk1rNXBUVlJSZUZscVozbE5WR016VGtSR2ExcHFTbWxhUjFsM1RrUmFiRTFYUm1oTmVteHNXa1JSTkZwcVpHbE9SRmsxVFhwQk1VOUVZekpPYWtWNVdrZE5NMDE2VW1oTmVtZDVUVWRhYlU5WFNYcGFiVkV6VFZSQk1rMVhVbWhOVjBVMFdtcFZkMDFFUlhwYVYxSnM=&remote=2405:201:e008:c0d0:68d4:ceb4:a392:5a4c&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 5
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English;Sports",Test 6
+http://bmlive.net:8000/kktdctv/kktdctv/bms.m3u8
